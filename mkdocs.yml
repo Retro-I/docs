@@ -1,0 +1,70 @@
+# TODO - change everything of me
+
+site_name: Docs
+
+site_url: https://felixholfelder.github.io/docs/
+
+nav:
+  - Übersicht: index.md
+  - Grundlagen:
+      - Verzweigung:
+          - Übersicht: verzweigungen/index.md
+          - IF-Statement: verzweigungen/if.md
+          - ELSE-Statement: verzweigungen/else.md
+          - ELSE-IF-Statement: verzweigungen/else-if.md
+          - Übung: verzweigungen/exercise.md
+
+theme:
+  name: material
+  palette:
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  language: de
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.share
+    - navigation.indexes
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.footer
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: "#"
+  # Annotations
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
