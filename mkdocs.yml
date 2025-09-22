@@ -1,18 +1,12 @@
-# TODO - change everything of me
-
 site_name: Docs
 
-site_url: https://felixholfelder.github.io/docs/
+site_url: https://retroi.github.io/docs/
 
 nav:
   - Übersicht: index.md
   - Grundlagen:
-      - Verzweigung:
-          - Übersicht: verzweigungen/index.md
-          - IF-Statement: verzweigungen/if.md
-          - ELSE-Statement: verzweigungen/else.md
-          - ELSE-IF-Statement: verzweigungen/else-if.md
-          - Übung: verzweigungen/exercise.md
+      - Setup:
+          - Übersicht: setup/index.md
 
 theme:
   name: material
