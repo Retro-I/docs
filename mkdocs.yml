@@ -13,6 +13,8 @@ nav:
       - user-manual/index.md
   - Setup:
       - setup/index.md
+  - Changelog:
+      - changelog/index.md
 
 theme:
   name: material
@@ -49,6 +51,9 @@ theme:
     - navigation.footer
     - navigation.tabs
     - navigation.top
+
+plugins:
+    - mkdocs_github_changelog
 
 markdown_extensions:
   - admonition
