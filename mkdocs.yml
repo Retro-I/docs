@@ -4,6 +4,8 @@ site_url: https://retroi.github.io/docs/
 repo_url: https://github.com/Retro-i/Retro.I
 repo_name: Retro.I
 
+copyright: Made with &#10084; and <b><a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></b> by <b><a href="https://github.com/DomeRepo">@DomeRepo</a></b> and <b><a href="https://github.com/felixholfelder">@felixholfelder</a></b>
+
 nav:
   - Home: index.md
   - Dokumentation:
@@ -15,6 +17,9 @@ nav:
       - setup/index.md
   - Changelog:
       - changelog/index.md
+
+extra:
+  generator: false
 
 theme:
   name: material
