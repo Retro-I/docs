@@ -1,6 +1,8 @@
 site_name: Docs
 
 site_url: https://retroi.github.io/docs/
+repo_url: https://github.com/Retro-i/Retro.I
+repo_name: Retro.I
 
 nav:
   - Übersicht: index.md
@@ -22,6 +24,8 @@ theme:
         icon: material/brightness-7
         name: Switch to dark mode
   language: de
+  icon:
+    repo: fontawesome/brands/github
   features:
     - content.code.copy
     - content.code.annotate
