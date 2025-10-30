@@ -5,10 +5,14 @@ repo_url: https://github.com/Retro-i/Retro.I
 repo_name: Retro.I
 
 nav:
-  - Übersicht: index.md
-  - Grundlagen:
-      - Setup:
-          - Übersicht: setup/index.md
+  - Home: index.md
+  - Dokumentation:
+      - documentation/index.md
+      # - Unterseite 1: documentation/seite1.md
+  - Benutzerhandbuch:
+      - user-manual/index.md
+  - Setup:
+      - setup/index.md
 
 theme:
   name: material
@@ -43,6 +47,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.footer
+    - navigation.tabs
 
 markdown_extensions:
   - admonition
