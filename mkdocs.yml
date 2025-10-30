@@ -32,6 +32,7 @@ theme:
   language: de
   icon:
     repo: fontawesome/brands/github
+    logo: material/radio
   features:
     - content.code.copy
     - content.code.annotate
