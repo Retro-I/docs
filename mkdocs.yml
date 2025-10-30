@@ -48,6 +48,7 @@ theme:
     - navigation.instant.progress
     - navigation.footer
     - navigation.tabs
+    - navigation.top
 
 markdown_extensions:
   - admonition
