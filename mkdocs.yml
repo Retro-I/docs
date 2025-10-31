@@ -23,7 +23,7 @@ extra:
 
 theme:
   name: material
-  favicon: assets/retroi_logo.png
+  favicon: assets/retroi_icon.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
