@@ -1,6 +1,6 @@
 site_name: Retro.I - Docs
 
-site_url: https://retroi.github.io/docs/
+site_url: https://docs.retroi.de
 repo_url: https://github.com/Retro-i/Retro.I
 repo_name: Retro.I
 
@@ -23,6 +23,7 @@ extra:
 
 theme:
   name: material
+  favicon: assets/retroi_icon.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
