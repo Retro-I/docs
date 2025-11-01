@@ -4,7 +4,7 @@ site_url: https://docs.retroi.de/
 repo_url: https://github.com/Retro-i/Retro.I
 repo_name: Retro.I
 
-copyright: Made with &#10084; and <b><a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></b> by <b><a href="https://github.com/DomeRepo">@DomeRepo</a></b> and <b><a href="https://github.com/felixholfelder">@felixholfelder</a></b>
+copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></b> by <b><a href="https://github.com/DomeRepo">@DomeRepo</a></b> and <b><a href="https://github.com/felixholfelder">@felixholfelder</a></b></div>
 
 nav:
   - Home: 
