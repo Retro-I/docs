@@ -7,7 +7,7 @@ repo_name: Retro.I
 copyright: Made with &#10084; and <b><a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></b> by <b><a href="https://github.com/DomeRepo">@DomeRepo</a></b> and <b><a href="https://github.com/felixholfelder">@felixholfelder</a></b>
 
 nav:
-  - Home: index.md
+  - Home: homeindex.md
   - Dokumentation:
       - documentation/index.md
       # - Unterseite 1: documentation/seite1.md
