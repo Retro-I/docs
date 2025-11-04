@@ -1,2 +1,2 @@
 # Setup
-Einrichtung des Retro.I - Stay tuned!
+Einrichtung des Retro.I - Stay tuneddd!
