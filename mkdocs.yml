@@ -11,7 +11,7 @@ nav:
       - homeindex.md
   - Dokumentation:
       - documentation/index.md
-      - documentation/radio.md
+      - Radio: documentation/radio.md
       # - Unterseite 1: documentation/seite1.md
   - Benutzerhandbuch:
       - user-manual/index.md
