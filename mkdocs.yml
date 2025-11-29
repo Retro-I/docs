@@ -11,7 +11,7 @@ nav:
       - homeindex.md
   - Dokumentation:
       - documentation/index.md
-      # - Unterseite 1: documentation/seite1.md
+      - Vorher Nachher: documentation/vorher_nachher.md
       - Entkernung: documentation/entkernung.md
       - Vorbereitung Gehaeuse: documentation/gehaeuse.md
       - Einbau Lautsprecher: documentation/lautsprecher.md
