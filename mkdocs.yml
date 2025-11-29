@@ -8,7 +8,7 @@ copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://
 
 nav:
   - Home: 
-      - homeindex.md
+      - index.md
   - Projektdokumentation:
       - projectdocumentation/index.md
       - Vorher Nachher: projectdocumentation/vorher_nachher.md
