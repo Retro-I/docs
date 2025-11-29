@@ -9,12 +9,12 @@ copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://
 nav:
   - Home: 
       - homeindex.md
-  - Dokumentation:
-      - documentation/index.md
-      - Vorher Nachher: documentation/vorher_nachher.md
-      - Entkernung: documentation/entkernung.md
-      - Vorbereitung Gehaeuse: documentation/gehaeuse.md
-      - Einbau Lautsprecher: documentation/lautsprecher.md
+  - Projektdokumentation:
+      - projectdocumentation/index.md
+      - Vorher Nachher: projectdocumentation/vorher_nachher.md
+      - Entkernung: projectdocumentation/entkernung.md
+      - Gehäuse - Touchdisplay: projectdocumentation/gehaeuse.md
+      - Einbau Lautsprecher: projectdocumentation/lautsprecher.md
   - Benutzerhandbuch:
       - user-manual/index.md
   - Setup:
