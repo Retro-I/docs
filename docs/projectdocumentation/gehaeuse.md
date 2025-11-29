@@ -3,15 +3,13 @@ Hier geht es Primär um den Einbau des Touchscreens in das Gehäuse.
 Die erste Frage dazu war erstmal: "Wo machen wir das Display hin"?
 
 Hier gab es mehrere Möglichkeiten:
-*Frontal
-*Rückseite
-*Oben
+- Frontal
+- Rückseite
+- Oben
 
-*Bei dem Frontalen-Einbau war uns die "Veränderung" zum Retro-Look zu groß.
-
-*Bei dem Einbau auf der Rückseite war uns die Platte zu dünn, dies hätte den ständigen Touch-Druck wahrscheinlich nicht ausgehalten.
-
-*Also haben wir uns entschlossen das Display Oben einzusetzen, da uns das am ästethischsten angesprochen hat.
+- Bei dem Frontalen-Einbau war uns die "Veränderung" zum Retro-Look zu groß.
+- Bei dem Einbau auf der Rückseite war uns die Platte zu dünn, dies hätte den ständigen Touch-Druck wahrscheinlich nicht ausgehalten.
+- Also haben wir uns entschlossen das Display Oben einzusetzen, da uns das am ästethischsten angesprochen hat.
 
 
 Vorderseite
