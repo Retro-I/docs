@@ -15,6 +15,10 @@ nav:
       - Entkernung: projectdocumentation/entkernung.md
       - Gehäuse - Touchdisplay: projectdocumentation/gehaeuse.md
       - Einbau Lautsprecher: projectdocumentation/lautsprecher.md
+      - LED-Streifen: projectdocumentation/led_streifen.md
+      - Dreh-Impulsgeber: projectdocumentation/dreh_impulsgeber.md
+      - Stromversorgung - Schaltplan: projectdocumentation/stromversorgung.md
+      - Zusammenbau - Fertig!: projectdocumentation/zusammenbau.md
   - Benutzerhandbuch:
       - user-manual/index.md
   - Setup:

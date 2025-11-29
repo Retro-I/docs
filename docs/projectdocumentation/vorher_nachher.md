@@ -26,8 +26,8 @@ Rückseite - Rechte Seite
 Vorderseite
 ![Vorderseite](../assets/nachher/nachher_1.jpg)
 
-Rückseite - offen
-![Rückseite_offen](../assets/nachher/nachher_3.jpg)
-
 Rückseite - geschlossen
-![Rückseite_geschlossen](../assets/nachher/nachher_2.jpg)
+![Rückseite_geschlossen](../assets/nachher/nachher_3.jpg)
+
+Rückseite - offen
+![Rückseite_offen](../assets/nachher/nachher_2.jpg)
