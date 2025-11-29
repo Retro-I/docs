@@ -1,4 +1,4 @@
-# Projektdokumentation
+## Projektdokumentation
 Hier dreht sich alles um Technik und die allgemeine Projektdokumentation. \
 
 #Vorwort
@@ -17,16 +17,16 @@ Gezeigt wird hier ein Radio von **Grundig  Typ 5088**, Baujahr **1957/1958** \
 
 
 Vorderseite \
-![Projektdoku](./docs/docs/assets/vorher/vorher_1.jpg) \
+![Projektdoku](./docs/assets/vorher/vorher_1.jpg) \
 
 Rückseite  \
-![Projektdoku](./docs/docs/assets/vorher/vorher_2.jpg) \
+![Projektdoku](./docs/assets/vorher/vorher_2.jpg) \
 
 Rückseite \
-![Projektdoku](./docs/docs/assets/vorher/vorher_4.jpg) \
+![Projektdoku](.docs/assets/vorher/vorher_4.jpg) \
 
 Rückseite - Linke Seite \
-![Projektdoku](./docs/docs/assets/vorher/vorher_3.jpg) \
+![Projektdoku](./docs/assets/vorher/vorher_3.jpg) \
 
 Rückseite - Rechte Seite \
-![Projektdoku](./docs/docs/assets/vorher/vorher_5.jpg) \
+![Projektdoku](./docs/assets/vorher/vorher_5.jpg) \

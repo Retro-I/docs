@@ -9,7 +9,7 @@ copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://
 nav:
   - Home: 
       - homeindex.md
-  - Projektdokumentation:
+  - Dokumentation:
       - documentation/index.md
       # - Unterseite 1: documentation/seite1.md
       - Entkernung: documentation/entkernung.md
