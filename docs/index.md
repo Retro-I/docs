@@ -13,7 +13,7 @@ Die gezeigten Bilder belaufen Sich auf Software `Version 3.0`. Deshalb sind Abwe
 Eine zweite Version des `Retro.I` ist bereits in Arbeit.
 
 #Kapitel
-In den Nachstehenden Kapiteln ist das gesamte Projekt beschrieben, hier eine kurze Übersicht: \
+In den Nachstehenden Kapiteln ist das gesamte Projekt beschrieben, hier eine kurze Übersicht: 
 
 - Dokumentation: Entkernung und Umbau des Radio's 
 - Benutzerhandbuch: Bedienung der `Retro.I` Software über einen Bildschirm oder Touchdisplay.
