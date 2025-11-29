@@ -7,7 +7,7 @@ Gezeigt wird hier ein Radio von **Grundig  Typ 5088**, Baujahr **1957/1958**.
 
 #Vorher
 Vorderseite 
-![Vorderseite](../assets/vorher/vorher_1.jpg) 
+![Vorderseite](../assets/vorher/vorher_6.jpg) 
 
 Rückseite  
 ![Rückseite](../assets/vorher/vorher_2.jpg) 
@@ -23,5 +23,11 @@ Rückseite - Rechte Seite
  
  
 #Nachher
-
+Vorderseite
 ![Vorderseite](../assets/nachher/nachher_1.jpg)
+
+Rückseite - offen
+![Rückseite_offen](../assets/nachher/nachher_3.jpg)
+
+Rückseite - geschlossen
+![Rückseite_geschlossen](../assets/nachher/nachher_2.jpg)
