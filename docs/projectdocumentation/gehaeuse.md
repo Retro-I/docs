@@ -39,3 +39,14 @@ Chassie
 ![Chassie](../assets/gehaeuse/gehaeuse_7.jpg)
 
 
+
+
+Gleichzeitig haben der Glasscheibe und dem Chassie einen neuen Glanz verpasst. \
+
+Glasscheibe
+![Glasscheibe](../assets/gehaeuse/gehaeuse_6.jpg)
+
+Chassie
+![Chassie](../assets/gehaeuse/gehaeuse_7.jpg)
+
+
