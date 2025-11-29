@@ -2,7 +2,8 @@
 Hier geht es Primär um den Einbau des Touchscreens in das Gehäuse.
 Die erste Frage dazu war erstmal: "Wo machen wir das Display hin"?
 
-Hier gab es mehrere Möglichkeiten:
+Hier gab es mehrere Möglichkeiten: \
+
 - Frontal
 - Rückseite
 - Oben
@@ -26,3 +27,14 @@ Draufsicht - fertiger Einbau
 
 Vorderseite - fertig
 ![Vorderseite - fertig](../assets/gehaeuse/gehaeuse_5.jpg)
+
+
+Gleichzeitig haben der Glasscheibe und dem Chassie einen neuen Glanz verpasst. \
+
+Glasscheibe
+![Glasscheibe](../assets/gehaeuse/gehaeuse_6.jpg)
+
+Chassie
+![Chassie](../assets/gehaeuse/gehaeuse_7.jpg)
+
+
