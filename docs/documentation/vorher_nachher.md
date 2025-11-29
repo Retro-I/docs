@@ -7,19 +7,19 @@ Gezeigt wird hier ein Radio von **Grundig  Typ 5088**, Baujahr **1957/1958**.
 
 #Vorher
 Vorderseite 
-![Vorderseite](assets/vorher/vorher_1.jpg) 
+![Vorderseite](docs/assets/vorher/vorher_1.jpg) 
 
 Rückseite  
-![Rückseite](assets/vorher/vorher_2.jpg) 
+![Rückseite](docs/assets/vorher/vorher_2.jpg) 
 
 Rückseite 
-![Rückseite_2](assets/vorher/vorher_4.jpg) 
+![Rückseite_2](docs/assets/vorher/vorher_4.jpg) 
 
 Rückseite - Linke Seite 
-![Rückseite_Links](assets/vorher/vorher_3.jpg) 
+![Rückseite_Links](docs/assets/vorher/vorher_3.jpg) 
 
 Rückseite - Rechte Seite
-![Rückseite_Rechts](assets/vorher/vorher_5.jpg) 
+![Rückseite_Rechts](docs/assets/vorher/vorher_5.jpg) 
  
  
 #Nachher
