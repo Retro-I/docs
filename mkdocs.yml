@@ -17,8 +17,9 @@ nav:
       - Einbau Lautsprecher: projectdocumentation/lautsprecher.md
       - LED-Streifen: projectdocumentation/led_streifen.md
       - Dreh-Impulsgeber: projectdocumentation/dreh_impulsgeber.md
-      - Stromversorgung - Schaltplan: projectdocumentation/stromversorgung.md
-      - Zusammenbau - Fertig!: projectdocumentation/zusammenbau.md
+      - Schaltplan: projectdocumentation/schaltplan.md
+      - Zusammenbau: projectdocumentation/zusammenbau.md
+      - Fertiger Retro.I: projectdocumentation/fertiger_retroI.md
   - Benutzerhandbuch:
       - user-manual/index.md
   - Setup:
