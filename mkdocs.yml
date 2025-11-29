@@ -9,10 +9,12 @@ copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://
 nav:
   - Home: 
       - homeindex.md
-  - Dokumentation:
+  - Projektdokumentation:
       - documentation/index.md
-      - Radio: documentation/radio.md
       # - Unterseite 1: documentation/seite1.md
+      - Entkernung: documentation/entkernung.md
+      - Vorbereitung Gehaeuse: documentation/gehaeuse.md
+      - Einbau Lautsprecher: documentation/lautsprecher.md
   - Benutzerhandbuch:
       - user-manual/index.md
   - Setup:
