@@ -24,6 +24,9 @@ nav:
       - user-manual/index.md
   - Setup:
       - setup/index.md
+      - Systemeinrichtung: setup/systemeinrichtung.md
+      - App-Einrichtung: setup/app-einrichtung.md
+      - Zusätzliche Hinweise: setup/hinweise.md
   - Changelog:
       - changelog/index.md
 
