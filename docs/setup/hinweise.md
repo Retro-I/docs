@@ -8,7 +8,14 @@ Ich benutze einen Touchscreen von Luckfox, der über das DSI-Kabel angeschlossen
 Um bei mir Scrollen zu ermöglichen, musste ich folgendes anpassen:
 
 ```
-Start -> ... Preferences -> Screen Configuration -> Screens -> <JEWEILIGEN SCREEN AUSWÄHLEN> -> Touchscreen -> Mode -> Multitouch
+Start
+-> ... Preferences
+-> Screen Configuration
+-> Screens
+-> <JEWEILIGEN SCREEN AUSWÄHLEN>
+-> Touchscreen
+-> Mode
+-> Multitouch
 ```
 
 ## Bildschirmhelligkeit einstellen
