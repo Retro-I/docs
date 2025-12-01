@@ -90,6 +90,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - def_list
+  - pymdownx.escapeall:
+      hardbreak: true
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
