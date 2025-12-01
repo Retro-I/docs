@@ -4,7 +4,7 @@ Hier findest du alle Informationen zum Setup-Skript ([`setup.sh`](https://github
 Durch dieses Setup-Skript ist es möglich die Software des Radios ohne großen weiteren Aufwand zu installieren. \
 Da die Installation mehrere Schritte benötigt und zusätzliche Software für die Lauffähigkeit notwendig ist, ist **JEDER** einzelne Schritt beschrieben.
 Dies macht es möglich einen eventuell fehlschlagenden Schritt zu debuggen und zu verstehen, was überhaupt da so passiert. Außerdem kann jeder Schritt per Hand durchgeführt werden!
-Näheres kann unter [Troubleshooting](#Troubleshooting) nachgelesen werden.
+Näheres kann unter [Troubleshooting](#troubleshooting) nachgelesen werden.
 
 
 ## Durchführung Setup
@@ -16,12 +16,11 @@ Das Setup-Skript wurde lediglich auf einem `Raspberry PI OS (64-bit) "Debian Boo
     Dass das Setup-Skript auf anderen OS' funktioniert ist nicht ausgeschlossen, aber auch nicht garantiert!
 
 Dieses Image kann über den **offiziellen** Raspberry-PI-Imager heruntergeladen und auf einer SD-Karte installiert werden.
-Dabei ist folgendes zu beachten:
+Dabei ist folgendes zu beachten: \
 * WLAN einrichten
 * Geeigneten Benutzernamen für den Raspberry setzen
-* 
 
-Optional bzw. **sehr** nützlich:
+Optional bzw. **sehr** nützlich: \
 * SSH aktivieren
 
 ### Projekt klonen
@@ -48,7 +47,7 @@ das Setup-Skript aus.
 Das Setup-Skript ist in zwei Teile untergliedert:
 
 ### [Systemeinrichtung](systemeinrichtung.md)
-Installiert Systemweite Software wie z.B.
+Installiert Systemweite Software wie z.B. \
 * Bildschirmtastatur
 * `easyeffects`
 * Konfiguriert den Splashscreen
