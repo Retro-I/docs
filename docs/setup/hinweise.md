@@ -21,9 +21,11 @@ Start
 ## Bildschirmhelligkeit einstellen
 Es ist möglich, dass dein Bildschirm/Touchscreen keine Helligkeitseinstellung unterstützt.\
 Es wird mit folgenden Mitteln versucht die Helligkeit zu verändern.\
-für DSI-Bildschirme: \
+für DSI-Bildschirme:
+
 * es werden alle `brightness` Dateien in den Ordnern `/sys/class/backlight/*` gesucht und gesetzt
 
-für HDMI-Bildschirme: \
+für HDMI-Bildschirme:
+
 * `xrandr --output HDMI-0 --brightness <WERT>`
 * `xrandr --output HDMI-1 --brightness <WERT>`

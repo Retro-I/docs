@@ -16,11 +16,13 @@ Das Setup-Skript wurde lediglich auf einem `Raspberry PI OS (64-bit) "Debian Boo
     Dass das Setup-Skript auf anderen OS' funktioniert ist nicht ausgeschlossen, aber auch nicht garantiert!
 
 Dieses Image kann über den **offiziellen** Raspberry-PI-Imager heruntergeladen und auf einer SD-Karte installiert werden.
-Dabei ist folgendes zu beachten: \
+Dabei ist folgendes zu beachten:
+
 * WLAN einrichten
 * Geeigneten Benutzernamen für den Raspberry setzen
 
-Optional bzw. **sehr** nützlich: \
+Optional bzw. **sehr** nützlich:
+
 * SSH aktivieren
 
 ### Projekt klonen
@@ -47,7 +49,8 @@ das Setup-Skript aus.
 Das Setup-Skript ist in zwei Teile untergliedert:
 
 ### [Systemeinrichtung](systemeinrichtung.md)
-Installiert Systemweite Software wie z.B. \
+Installiert Systemweite Software wie z.B.
+
 * Bildschirmtastatur
 * `easyeffects`
 * Konfiguriert den Splashscreen
