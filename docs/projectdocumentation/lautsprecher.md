@@ -1,6 +1,6 @@
 #Lautsprecher
  
-Wir haben uns für eine günstige kleine passive Variante entschieden.
+Wir haben uns für eine günstige kleine passive Variante entschieden. <br>
 Zuerst haben wir eine Skizze für die Schaltung gezeichnet.
 Da wir den Radio nicht neu bespannen wollten, haben wir eine andere Möglichkeit gesucht die Lautsprecher zu befestigen.
 

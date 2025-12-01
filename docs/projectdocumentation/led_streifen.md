@@ -6,7 +6,7 @@ Diese information ist wichtig da die visuelle anzeige der Lautstärke, über die
 
 Kann aber alles nochmal im [Setup](../setup/index.md) nachgelesen werden ;) .
 
-Nachdem wir verschiedene Positionen getestet haben hat sich gezeigt, \
+Nachdem wir verschiedene Positionen getestet haben hat sich gezeigt, <br>
 dass wenn dieser nach "unten" leuchtet er die schönste indirekte Beleuchtung abgibt.
 
 

@@ -21,7 +21,7 @@ Rückseite - Linke Seite
 Rückseite - Rechte Seite
 ![Rückseite_Rechts](../assets/vorher/vorher_5.jpg)  
  
- 
+ <br>
 #Nachher
 Vorderseite
 ![Vorderseite](../assets/nachher/nachher_1.jpg)

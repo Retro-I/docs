@@ -15,4 +15,4 @@ Rückseite - geschlossen
 ![Rückseite - geschlossen](../assets/fertiger_retroI/fertiger_radio_4.jpg)
 
 Rückseite - offen
-![Rückseite - offen](../assets/fertiger_retroI/fertiger_radio_3.jpg)
+![Rückseite - offen](../assets/fertiger_retroI/fertiger_radio_5.jpg)

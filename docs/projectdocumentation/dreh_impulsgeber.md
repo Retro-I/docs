@@ -12,7 +12,7 @@ Somit kann man die Intuitive Bedienung heutiger Geräte wieder vollumfänglich a
 Dreh-Impulsgeber
 ![Dreh-Impulsgeber](../assets/dreh_impulsgeber/dreh_impulsgeber_1.jpg)
 
-Ansicht durch die Glasplatte
+Ansicht Glasplatte
 ![Ansicht_Glasplatte](../assets/dreh_impulsgeber/dreh_impulsgeber_2.jpg)
 
 Draufsicht

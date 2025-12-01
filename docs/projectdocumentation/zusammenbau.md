@@ -16,8 +16,8 @@ Raspy - Lüfter - LED-Streifen
 Lautsprecher verlöten
 ![Lautsprecher_verlöten](../assets/zusammenbau/zusammenbau_4.jpg)
 
-Hinweis: der hier gezeigte HiFi Berry wurde wieder zurückgeschickt \
-und es wurde stattdessen ein externe Verstärke für die Lautsprecher genutzt.
+<b>Hinweis: der hier gezeigte HiFi Berry wurde wieder zurückgeschickt <br>
+und es wurde stattdessen ein externe Verstärke für die Lautsprecher genutzt.</b>
 
 Pins anstecken
 ![Pins_anstecken](../assets/zusammenbau/zusammenbau_5.jpg)
