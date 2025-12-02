@@ -72,6 +72,8 @@ theme:
 
 plugins:
     - mkdocs_github_changelog
+    - optimize
+    - offline
 
 markdown_extensions:
   - admonition
