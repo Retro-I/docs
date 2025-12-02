@@ -54,7 +54,7 @@ sudo usermod -aG audio $USER
 
 ## Systemd-Datei für Systemstart erstellen
 Damit die Software nach dem Systemstart von selbst startet, muss eine Autostart-Datei angelegt werden.\
-In `/etc/systemd/system/retroi.service` wird der Inhalt der Datei [`retroi.service`](scripts/retroi.service) hinzugefügt.
+In `/etc/systemd/system/retroi.service` wird der Inhalt der Datei `scripts/retroi.service` hinzugefügt.
 
 ## Taskbar ausblenden
 Die Datei `$HOME/.config/wf-panel-pi.ini` wird angepasst und folgendes hinzugefügt:
