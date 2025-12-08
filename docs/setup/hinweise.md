@@ -1,6 +1,6 @@
 # Zusätzliche Hinweise
 ## Probleme mit Scrollen
-Es ist möglich, dass das Touch-Display mit dem Scrollen hat.\
+Es ist möglich, dass das Touch-Display mit dem Scrollen Probleme hat.\
 Sollte das Display kein Scrollen unterstützen kann während der Installation ausgewählt werden, ob man einen Scrollbalken in der App anzeigen lassen möchte.
 
 Für Displays, welche Touch unterstützen kann es sein, dass der Screen anfangs kein Scrollen ermöglicht.\
