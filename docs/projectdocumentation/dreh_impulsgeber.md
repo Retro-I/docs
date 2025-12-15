@@ -1,11 +1,12 @@
 #Dreh-Impulsgeber
 
-Um den Original Drehknopf seiner ursprünglichen Funktionalität wieder gerecht zu werden.
-Haben wir einen Dreh-Impulsgeber dahinter versteckt. Dieser hat drei Funktionen.
+Um den Originalen Drehknopf seiner ursprünglichen Funktionalität wieder gerecht zu werden, haben wir einen Dreh-Impulsgeber dahinter versteckt. <br>
+
+Dieser hat drei Funktionen:
 
 - Links drehen -> Lautstärke verringern
 - Rechts drehen -> Lautstärke erhöhen
-- und Drücken -> Stummschalten
+- drücken -> Stummschalten
 
 Somit kann man die Intuitive Bedienung heutiger Geräte wieder vollumfänglich abbilden.
 
