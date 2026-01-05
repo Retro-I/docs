@@ -1,6 +1,6 @@
 ##Vorher / Nachher
-Wie das Kapitel schon sagt, geht es hier kurz um einen Vorher Nachher vergleich. 
-Hier liegt der Fokus auf das Innenleben. Das äußere wurde kaum verändert. 
+Wie das Kapitel schon sagt, geht es hier kurz um einen Vorher-Nachher-Vergleich. 
+Hier liegt der Fokus auf dem Innenleben. Das Äußere wurde kaum verändert. 
 
 Gezeigt wird hier ein Radio von **Grundig  Typ 5088**, Baujahr **1957/1958**. 
 

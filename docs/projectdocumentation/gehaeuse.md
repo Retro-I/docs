@@ -1,5 +1,5 @@
 #Gehäuse - Touchdisplay
-Hier geht es Primär um den Einbau des Touchscreens in das Gehäuse.
+Hier geht es primär um den Einbau des Touchscreens in das Gehäuse.
 Die erste Frage dazu war erstmal: "Wo machen wir das Display hin"? <br>
 
 Hier gab es mehrere Möglichkeiten: <br>
@@ -11,7 +11,7 @@ Hier gab es mehrere Möglichkeiten: <br>
     -  Bei dem Einbau auf der Rückseite war uns die Platte zu dünn, dies hätte den ständigen Touch-Druck wahrscheinlich nicht ausgehalten.
 
 - Oben 
-    - Also haben wir uns entschlossen das Display Oben einzusetzen, da uns das am ästethischsten angesprochen hat.
+    - Also haben wir uns entschlossen das Display Oben einzusetzen.
 
 
 Vorderseite
@@ -30,7 +30,7 @@ Vorderseite - fertig
 ![Vorderseite - fertig](../assets/gehaeuse/gehaeuse_5.jpg)
 
 
-Gleichzeitig haben der Glasscheibe und dem Chassie einen neuen Glanz verpasst. <br>
+Gleichzeitig haben wir der Glasscheibe und dem Chassie einen neuen Glanz verpasst. <br>
 
 Glasscheibe
 ![Glasscheibe](../assets/gehaeuse/gehaeuse_6.jpg)
