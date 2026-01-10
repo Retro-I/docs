@@ -3,7 +3,7 @@
 Für die technisch Versierten, gäbe es hier auch einen Schaltplan vom `Retro.I` wie wir den Radio aufgebaut haben.
 
 ## Schaltplan Retro.I
-![Ansicht_vorne](../assets/schaltplan/Schaltplan.jpg)
+![Ansicht_vorne](../assets/projectdocumentation/schaltplan/Schaltplan.jpg)
 
 ## GPIO-Pin Belegung
 | PIN | Farbe | Verwendung |
@@ -28,4 +28,4 @@ Für die technisch Versierten, gäbe es hier auch einen Schaltplan vom `Retro.I`
 | 39  | <span style="color:black">SCHWARZ</span> | GROUND (Button Trinkspruch) |
 | 40  | <span style="color:red">ROT</span> | Daten (Button Trinkspruch) |
 
-![GPIO_pin_mapping](../assets/schaltplan/gpio_pin_mapping.png)
+![GPIO_pin_mapping](../assets/projectdocumentation/schaltplan/gpio_pin_mapping.png)
