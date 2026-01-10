@@ -9,6 +9,7 @@ copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://
 nav:
   - Home: 
       - index.md
+
   - Projektdokumentation:
       - projectdocumentation/index.md
       - Vorher Nachher: projectdocumentation/vorher_nachher.md
@@ -20,13 +21,51 @@ nav:
       - Schaltplan: projectdocumentation/schaltplan.md
       - Zusammenbau: projectdocumentation/zusammenbau.md
       - Fertiger Retro.I: projectdocumentation/fertiger_retroI.md
+
   - Benutzerhandbuch:
       - user-manual/index.md
+        # Vorwort + Übersicht + Inhaltsverzeichnis?
+      - PIN-Belegung: user-manuel/PIN-Belegung.md
+        # Schaubild Pin Belegung + Tabelle
+
+      - Startbildschirm: user-manuel/Startbildschirm.md
+        # Übersicht, Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
+
+      - Ein- und Ausschalten: user-manuel/on-off.md
+        # Symbolführung 
+
+      - WLAN: user-manuel/WLAN.md 
+        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
+
+      - Bluetooth: user-manuel/Bluetooth.md
+        # aktivieren + Verbindungen + Namen ändern, Symbolführung
+
+      - Audio: user-manuel/audio.md
+        # Lautstärke + Stummschalten + Erklärung mit Drehimpulsgeber
+
+      - Radiosender: user-manuel/radiosender.md
+        # Radiosender auswahl + Sendersuche + Hinzufügen von neuen Radiosendern / löschen
+
+      - Einstellungen: user-manuel/einstellungen.md
+        # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
+
+      - Anzeige: user-manuel/anzeige.md
+        # Symbolführung 
+
+      - LED-Streifen: user-manuel/LED-Streifen.md
+        # Symbolführung
+
+      - Infos: user-manuel/infos.md
+        # CPU Temperatur, Netzwerkinfos, Credits, 
+
+
+        
   - Setup:
       - setup/index.md
       - Systemeinrichtung: setup/systemeinrichtung.md
       - App-Einrichtung: setup/app-einrichtung.md
       - Zusätzliche Hinweise: setup/hinweise.md
+
   - Changelog:
       - changelog/index.md
 

@@ -15,28 +15,28 @@ Hier gab es mehrere Möglichkeiten: <br>
 
 
 Vorderseite
-![Vorderseite](../assets/gehaeuse/gehaeuse_1.jpg)
+![Vorderseite](../assets/projectdocumentation/gehaeuse/gehaeuse_1.jpg)
 
 Draufsicht
-![Draufsicht](../assets/gehaeuse/gehaeuse_2.jpg)
+![Draufsicht](../assets/projectdocumentation/gehaeuse/gehaeuse_2.jpg)
 
 Innenansicht
-![Innenansicht](../assets/gehaeuse/gehaeuse_3.jpg)
+![Innenansicht](../assets/projectdocumentation/gehaeuse/gehaeuse_3.jpg)
 
 Draufsicht - fertiger Einbau
-![Draufsicht - fertiger Einbau](../assets/gehaeuse/gehaeuse_4.jpg)
+![Draufsicht - fertiger Einbau](../assets/projectdocumentation/gehaeuse/gehaeuse_4.jpg)
 
 Vorderseite - fertig
-![Vorderseite - fertig](../assets/gehaeuse/gehaeuse_5.jpg)
+![Vorderseite - fertig](../assets/projectdocumentation/gehaeuse/gehaeuse_5.jpg)
 
 
 Gleichzeitig haben wir der Glasscheibe und dem Chassie einen neuen Glanz verpasst. <br>
 
 Glasscheibe
-![Glasscheibe](../assets/gehaeuse/gehaeuse_6.jpg)
+![Glasscheibe](../assets/projectdocumentation/gehaeuse/gehaeuse_6.jpg)
 
 Chassie
-![Chassie](../assets/gehaeuse/gehaeuse_7.jpg)
+![Chassie](../assets/projectdocumentation/gehaeuse/gehaeuse_7.jpg)
 
 
 

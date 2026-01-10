@@ -11,10 +11,10 @@ dass er, wenn dieser nach "unten" leuchtet die schönste indirekte Beleuchtung a
 
 
 LED-Streifen positionierung
-![LED-Streifen_positionierung](../assets/led_streifen/led_streifen_1.jpg)
+![LED-Streifen_positionierung](../assets/projectdocumentation/led_streifen/led_streifen_1.jpg)
 
 LED-Streifen Test
-![LED-Streifen_test_](../assets/led_streifen/led_streifen_2.jpg)
+![LED-Streifen_test_](../assets/projectdocumentation/led_streifen/led_streifen_2.jpg)
 
 LED-Streifen Befestigung
-![LED-Streifen_befestigung](../assets/led_streifen/led_streifen_3.jpg)
+![LED-Streifen_befestigung](../assets/projectdocumentation/led_streifen/led_streifen_3.jpg)

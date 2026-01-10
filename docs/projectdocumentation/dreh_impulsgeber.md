@@ -11,13 +11,13 @@ Dieser hat drei Funktionen:
 Somit kann man die Intuitive Bedienung heutiger Geräte wieder vollumfänglich abbilden.
 
 Dreh-Impulsgeber
-![Dreh-Impulsgeber](../assets/dreh_impulsgeber/dreh_impulsgeber_1.jpg)
+![Dreh-Impulsgeber](../assets/projectdocumentation/dreh_impulsgeber/dreh_impulsgeber_1.jpg)
 
 Ansicht Glasplatte
-![Ansicht_Glasplatte](../assets/dreh_impulsgeber/dreh_impulsgeber_2.jpg)
+![Ansicht_Glasplatte](../assets/projectdocumentation/dreh_impulsgeber/dreh_impulsgeber_2.jpg)
 
 Draufsicht
-![Draufsicht](../assets/dreh_impulsgeber/dreh_impulsgeber_3.jpg)
+![Draufsicht](../assets/projectdocumentation/dreh_impulsgeber/dreh_impulsgeber_3.jpg)
 
 Ansicht von vorne
-![Ansicht_vorne](../assets/dreh_impulsgeber/dreh_impulsgeber_4.jpg)
+![Ansicht_vorne](../assets/projectdocumentation/dreh_impulsgeber/dreh_impulsgeber_4.jpg)
