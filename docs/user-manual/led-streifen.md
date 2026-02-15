@@ -1,1 +1,1 @@
-# led-streifen
+# LED-Streifen

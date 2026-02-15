@@ -1,1 +1,1 @@
-# WLAN
+# W-LAN & LAN
