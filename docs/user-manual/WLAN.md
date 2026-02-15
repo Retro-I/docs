@@ -1,11 +1,15 @@
 # W-LAN & LAN
 Im oberen Menüband auf der rechten Seite ist es möglich sich mit einem W-LAN seiner Wahl zu verbinden.
 
-Das `W-LAN Icon` hat zwei Modi.
-- Grün = mit W-LAN verbunden
-- Grau und durchgestrichten = nicht verbunden
+Das `W-LAN Icon` hat zwei Modi.<br>
+- Grün = mit W-LAN verbunden<br>
+- Grau und durchgestrichten = nicht verbunden<br>
 
-## TODO SCREENSHOT Bild Graues Symbol vom W-LAN
+## TODO SCREENSHOT Bild Grünes/Graues Symbol vom W-LAN
+
+Sobald ein `LAN-Kabel` eingesteckt ist, erscheint ein `LAN-ICON`.
+
+## TODO SCREENSHOT LAN SYMBOL
 
 ![W-LAN Symbol](../assets/user-manual/wlan/wlan_1.jpg)
 

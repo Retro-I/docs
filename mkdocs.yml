@@ -25,40 +25,28 @@ nav:
   - Benutzerhandbuch:
       - user-manual/index.md
         # Vorwort + Übersicht + Inhaltsverzeichnis?
-      - PIN-Belegung: user-manual/PIN-Belegung.md
-        # Schaubild Pin Belegung + Tabelle
-
       - Startbildschirm: user-manual/Startbildschirm.md
         # Übersicht, Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
-
-      - Ein- und Ausschalten: user-manual/on-off.md
-        # Symbolführung 
-
-      - WLAN: user-manual/WLAN.md 
-        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
-
-      - Bluetooth: user-manual/Bluetooth.md
-        # aktivieren + Verbindungen + Namen ändern, Symbolführung
-
-      - Audio: user-manual/audio.md
-        # Lautstärke + Stummschalten + Erklärung mit Drehimpulsgeber
-
       - Radiosender: user-manual/radiosender.md
         # Radiosender auswahl + Sendersuche + Hinzufügen von neuen Radiosendern / löschen
-
-      - Einstellungen: user-manual/einstellungen.md
+      - Ein- und Ausschalten: user-manual/on-off.md
+        # Symbolführung 
+      - W-LAN / LAN: user-manual/WLAN.md 
+        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
+      - Bluetooth: user-manual/Bluetooth.md
+        # aktivieren + Verbindungen + Namen ändern, Symbolführung
+      - Audio: user-manual/audio.md
+        # Lautstärke + Stummschalten + Erklärung mit Drehimpulsgeber
+      - Allgemeine Einstellungen: user-manual/einstellungen.md
         # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
-
       - Anzeige: user-manual/anzeige.md
         # Symbolführung 
-
-      - LED-Streifen: user-manual/LED-Streifen.md
+      - LED-Streifen: user-manual/led-streifen.md
         # Symbolführung
-
+      - GPO-PIN-Belegung / Schaltplan: user-manual/PIN-Belegung.md
+        # Schaubild Pin Belegung + Tabelle
       - Infos: user-manual/infos.md
         # CPU Temperatur, Netzwerkinfos, Credits, 
-
-
         
   - Setup:
       - setup/index.md

@@ -1,29 +1,39 @@
 # Startbildschirm
-Beim Starten und Herunterfahren wird der Standard bzw. ausgewählte Splashscreen angezeigt. Zusätzlich ertönt der typische Windows-Sound beim hochfahren.
+Beim Starten und Herunterfahren wird der ausgewählte Splashscreen angezeigt. Zusätzlich ertönt der typische Windows-Sound beim hochfahren.
 
-Nach der Installation der `setup.sh` wird beim nächsten Start nur noch der Desktop angezeigt und der Splashscreen. Die `retro.i-service` ist im Autostart hinterlegt und wird in kürze starten. Die `Radio-App` startet standardmäßig in der `Radiosender-Kachel`.
+Nach der Installation der `setup.sh` wird beim nächsten Start nur noch der Desktop, ohne Taskleiste, angezeigt und der ausgewählte Splashscreen wird zum Desktophintergrund. Der `retro.i-service` ist im Autostart hinterlegt und wird in kürze starten. Die `Radio-App` startet standardmäßig in der `Radiosender-Kachel`.
 
-## Menüband Oberflächen
+## Orientierung am Menüband
 
 ### obere Menüband
-Das obere Menüband beinhaltet auf der Linken oberen Seite:
- - aktuelle Lautstärke oder Anzeige für Stummschaltung
- - Equalizer Bass / Höhen
+Das obere Menüband beinhaltet auf der Linken oberen Seite:<br>
+ - aktuelle Lautstärke oder Anzeige für Stummschaltung <br>
+ - Equalizer Bass / Höhen <br>
 
-auf der rechten oberen Seite:
- - System Ein- und Ausschalter
- - Dark/Lightmode
- - Anzeige [W-LAN oder LAN](WLAN.md)
- - [Bluetooth](bluetooth.md) Anzeige
+
+### TODO Screenshot Lautstärke
+### TODO Screenshot Equalizer
+
+
+auf der rechten oberen Seite: <br>
+ - System Ein- und Ausschalter <br>
+ - Dark/Lightmode <br>
+ - Anzeige [`W-LAN oder LAN`](WLAN.md) <br>
+ - [`Bluetooth`](bluetooth.md) Anzeige <br>
+
+ ### TODO Screenshot System Ein- und Assschalter
+ ### TODO Dark/Lightmode
+
 
 ### untere Menüband
-im unteren Menüband ist die Kachel `Radiosender` beim Start als Standard ausgewählt. Darüberhinaus gibt es noch `Bluetooth` und `Einstellungen`.
+im unteren Menüband ist die Kachel [`Radiosender`](radiosender.md) beim Start als Standard ausgewählt.<br>
+Darüberhinaus gibt es noch [`Bluetooth`](bluetooth.md) und [`Einstellungen`](einstellungen.md).
 
-In der Kachel `Radiosender` befinden sich alle gespeicherten Radiosender.
+In der Kachel [`Radiosender`](radiosender.md) befinden sich alle gespeicherten Radiosender.<br>
 
-In der Kachel [`Bluetooth`](bluetooth.md) kann man sich mit anderen Audio-Eingabegeräte per Bluetooth verbinden.
+In der Kachel [`Bluetooth`](bluetooth.md) kann man sich mit anderen Audio-Eingabegeräte per Bluetooth verbinden.<br>
 
-In der Kachel [`Einstellungen`](einstellungen.md) finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten LED-Streifen, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start usw.
+In der Kachel [`Einstellungen`](einstellungen.md) finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten des LED-Streifens, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start usw.<br>
 
 ![Startbildschirm - Startkachel = Radiosender](../assets/user-manual/startbildschirm/startbildschirm.png)
 

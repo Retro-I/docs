@@ -1,5 +1,5 @@
 # Benutzerhandbuch
-Hier befindet sich das Benutzerhandbuch. Stay tuned!
+Hier befindet sich das Benutzerhandbuch. Stay tuned! <br>
 Die folgende Dokumentation bezieht sich auf die Version `V4.0`.
 
 
@@ -18,5 +18,5 @@ Die folgende Dokumentation bezieht sich auf die Version `V4.0`.
 
 
 ## Übersicht - Startseite
-Hier eine kurze Übersicht über die Menüführung der `Retro.I App`.
+Hier eine kurze Übersicht über die Menüführung der `Retro.I App`. <br>
 ![Übersicht - Startseite](../assets/user-manual/index/index_uebersicht.png)
