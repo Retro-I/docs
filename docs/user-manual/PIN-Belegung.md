@@ -1,2 +1,2 @@
 # GPO-PIN-Belegung / Schaltplan
-Die Pinbelegung ist [hier](schaltplan.md) in der Projektdokumentation abgelegt.
+Die Pinbelegung ist [hier](projectdocumentation/schaltplan.md) in der Projektdokumentation abgelegt.

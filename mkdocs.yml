@@ -29,24 +29,27 @@ nav:
         # Übersicht, Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
       - Radiosender: user-manual/radiosender.md
         # Radiosender auswahl + Sendersuche + Hinzufügen von neuen Radiosendern / löschen
-      - Ein- und Ausschalten: user-manual/on-off.md
+      - System Ein- und Ausschalten: user-manual/on-off.md
         # Symbolführung 
+      - Darkmode / Lightmode: user-manual/dark_light.md 
+        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
       - W-LAN / LAN: user-manual/WLAN.md 
         # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
       - Bluetooth: user-manual/Bluetooth.md
         # aktivieren + Verbindungen + Namen ändern, Symbolführung
+      - Einstellungen: user-manual/einstellungen.md
+        # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
+        # Frage ist hier ob App, Updates, Logs ausgeblendet werden oder nicht.
       - Audio: user-manual/audio.md
         # Lautstärke + Stummschalten + Erklärung mit Drehimpulsgeber
-      - Allgemeine Einstellungen: user-manual/einstellungen.md
-        # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
       - Anzeige: user-manual/anzeige.md
         # Symbolführung 
       - LED-Streifen: user-manual/led-streifen.md
         # Symbolführung
-      - GPO-PIN-Belegung / Schaltplan: user-manual/PIN-Belegung.md
-        # Schaubild Pin Belegung + Tabelle
       - Infos: user-manual/infos.md
         # CPU Temperatur, Netzwerkinfos, Credits, 
+      - GPO-PIN-Belegung / Schaltplan: user-manual/PIN-Belegung.md
+        # Schaubild Pin Belegung + Tabelle
         
   - Setup:
       - setup/index.md
