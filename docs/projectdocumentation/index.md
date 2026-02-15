@@ -2,16 +2,18 @@
 # Hardware
 Hier dreht sich alles um folgende Punkte: <br>
 
-- Vorbereitung
-- Entkernung
-- Umbau
-- Lautsprecher
-- LED-Streifen
-- Dreh-Impulsgeber
-- Schaltplan
-- und zum Schluss das fertige Radio unseren `Retro.I`
+- [Vorher & Nachher](vorher_nachher.md)
+- [Entkernung](entkernung.md)
+- [Einbau Lautsprecher](lautsprecher.md)
+- [Einbau LED-Streifen](led_streifen.md)
+- [Vorbereitung Gehäuse](gehaeuse.md)
+- [Einbau Dreh-Impulsgeber](dreh_impulsgeber.md)
+- [Schaltplan & übersicht PIN-Belegung](schaltplan.md)
+- und zum Schluss das [fertige Radio](fertiger_retroI.md) unseren `Retro.I`
 
 und schließlich den Zusammenbau der Technik und Fertigstellung des `Retro.I`. <br>
 Wer also den `Retro.I` nachbauen möchte, kann sich hier Inspiration holen.<br>
 
 Wer sich nur für die Software interessiert, der ist im Bereich [Setup](../setup/index.md) besser aufgehoben.
+
+

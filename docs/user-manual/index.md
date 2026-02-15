@@ -1,15 +1,10 @@
 # Benutzerhandbuch
 Hier befindet sich das Benutzerhandbuch. Stay tuned!
+Die folgende Dokumentation bezieht sich auf die Version `V4.0`.
 
-Die folgende Dokumentation bezieht sich auf die Version V4.0.
-
-Hier einen kurzen Vorgeschmack auf die Anzeige und Mögliche Funktionen:
-
-Zu den einzelnen Punkten gibt es jeweils ein Kapitel.
 
 ## Inhaltsverzeichnis
-
-- [PIN-Belegung](PIN-Belegung.md)
+- [GPO-PIN-Belegung / Schalplan](PIN-Belegung.md)
 - [Startbildschirm](Startbildschirm.md)
 - [Ein- und Ausschalten](on-off.md)
 - [W-LAN / LAN Einstellungen](wlan.md)
@@ -23,5 +18,5 @@ Zu den einzelnen Punkten gibt es jeweils ein Kapitel.
 
 
 ## Übersicht - Startseite
-
+Hier eine kurze Übersicht über die Menüführung der `Retro.I App`.
 ![Übersicht - Startseite](../assets/user-manual/index/index_uebersicht.png)
