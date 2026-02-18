@@ -4,7 +4,6 @@ Die folgende Dokumentation bezieht sich auf die Version `V4.0`.
 
 
 ## Inhaltsverzeichnis
-- [GPO-PIN-Belegung / Schalplan](PIN-Belegung.md)
 - [Startbildschirm](Startbildschirm.md)
 - [Ein- und Ausschalten](on-off.md)
 - [W-LAN / LAN Einstellungen](wlan.md)
@@ -14,7 +13,8 @@ Die folgende Dokumentation bezieht sich auf die Version `V4.0`.
 - [Allgemeine Einstellungen](einstellungen.md)
 - [Anzeige Einstellungen](anzeige.md)
 - [LED-Streifen Einstellungen](led-streifen.md)
-- [Infos](infos.md)
+- [Systeminfos](infos.md)
+- [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)
 
 
 ## Übersicht - Startseite

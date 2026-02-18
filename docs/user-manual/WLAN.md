@@ -6,20 +6,26 @@ Das `W-LAN Icon` hat zwei Modi.<br>
 - Grau und durchgestrichten = nicht verbunden<br>
 
 ## TODO SCREENSHOT Bild Grünes/Graues Symbol vom W-LAN
+<br>
 
 Sobald ein `LAN-Kabel` eingesteckt ist, erscheint ein `LAN-ICON`.
 
 ## TODO SCREENSHOT LAN SYMBOL
+<br>
 
 ![W-LAN Symbol](../assets/user-manual/wlan/wlan_1.jpg)
 
 Sobald das WiFi eingeschaltet ist, startet die Netzwerksuche.
 
-Nach Auswahl des gewünschten W-LAN's kommt bequem die Passwort abfrage in einem Dialog-Fenster. Hier erscheint auch gleichzeitig eine Bildschirmtastatur zur Eingabe. Es ist aber auch möglich das Passwort mit einer verbundenen Tastatur einzugeben.
+![Übersicht Verfügbare W-LAN's](../assets/user-manual/wlan/wlan_2.jpg)
+
+Nach Auswahl des gewünschten W-LAN's kommt bequem die Passwort abfrage in einem neuen Dialog-Fenster. 
+<br>
+Hier erscheint auch gleichzeitig eine Bildschirmtastatur zur Eingabe. Es ist aber auch möglich das Passwort mit einer verbundenen Tastatur einzugeben.
 
 ## TODO SCREENSHOT Screenshot Passwort Dialog Fenster
 
-![Übersicht Verfügbare W-LAN's](../assets/user-manual/wlan/wlan_2.jpg)
+
 
 
 

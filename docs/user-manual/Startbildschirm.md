@@ -31,9 +31,15 @@ Darüberhinaus gibt es noch [`Bluetooth`](bluetooth.md) und [`Einstellungen`](ei
 
 In der Kachel [`Radiosender`](radiosender.md) befinden sich alle gespeicherten Radiosender.<br>
 
-In der Kachel [`Bluetooth`](bluetooth.md) kann man sich mit anderen Audio-Eingabegeräte per Bluetooth verbinden.<br>
+### TODO Kachel Bluetooth Bild
 
-In der Kachel [`Einstellungen`](einstellungen.md) finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten des LED-Streifens, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start usw.<br>
+In der Kachel [`Bluetooth`](bluetooth.md) kann man sich mit anderen Audio-Ausgabegeräten per Bluetooth verbinden.<br>
+
+### TODO Kachel Einstellungen Bild 
+
+In der Kachel [`Einstellungen`](einstellungen.md) finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten des LED-Streifens, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start oder Systeminformationen wie die aktuelle IP.<br>
+
+### TODO Anregung: Nur ein Bild mit Kreisen?
 
 ![Startbildschirm - Startkachel = Radiosender](../assets/user-manual/startbildschirm/startbildschirm.png)
 

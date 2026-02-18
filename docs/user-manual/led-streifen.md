@@ -4,6 +4,7 @@
 Hier ist es möglich den LED-Streifen Ein- oder Auszuschalten. 
 Zusätzlich ist es möglich über diesen über Schieberegler den zu dimmen.
 
+## TODO NEUE Screenshots ohne restlichen Anzeigen
 ![Kachel Einstellungen](../assets/user-manual/led-streifen/led-streifen_1.jpg)
 
 
@@ -13,4 +14,4 @@ Zusätzlich ist es möglich über diesen über Schieberegler den zu dimmen.
 LED-Streifen:
  - Ein- und Ausschalten
  - Dimmbar über Schieberegler
-![Übersicht Einstellmöglichkeiten](../assets/user-manual/led-streifen/led-streifen_3.jpg)
+![Übersicht Einstellmöglichkeiten](../assets/user-manual\led-streifen\led-streifen_3.jpg)
