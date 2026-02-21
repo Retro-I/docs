@@ -1,4 +1,8 @@
-# Startbildschirm
+# Übersicht Startbildschirm
+Hier eine kurze Übersicht über die Menüführung der `Retro.I App`. <br>
+![Übersicht - Startseite](../assets/user-manual/index/index_uebersicht.png)
+
+## Startbildschirm
 Beim Starten und Herunterfahren wird der ausgewählte Splashscreen angezeigt. Zusätzlich ertönt der typische Windows-Sound beim hochfahren.
 
 Nach der Installation der `setup.sh` wird beim nächsten Start nur noch der Desktop, ohne Taskleiste, angezeigt und der ausgewählte Splashscreen wird zum Desktophintergrund. Der `retro.i-service` ist im Autostart hinterlegt und wird in kürze starten. Die `Radio-App` startet standardmäßig in der `Radiosender-Kachel`.
@@ -6,20 +10,20 @@ Nach der Installation der `setup.sh` wird beim nächsten Start nur noch der Desk
 ## Orientierung am Menüband
 
 ### obere Menüband
-Das obere Menüband beinhaltet auf der Linken oberen Seite:<br>
- - aktuelle Lautstärke oder Anzeige für Stummschaltung <br>
- - Equalizer Bass / Höhen <br>
+Das obere Menüband beinhaltet auf der Linken oberen Seite:
+ - aktuelle Lautstärke oder Anzeige für Stummschaltung
+ - Equalizer Bass / Höhen
 
 
 ### TODO Screenshot Lautstärke
 ### TODO Screenshot Equalizer
 
 
-auf der rechten oberen Seite: <br>
- - System Ein- und Ausschalter <br>
- - Dark/Lightmode <br>
- - Anzeige [`W-LAN oder LAN`](WLAN.md) <br>
- - [`Bluetooth`](bluetooth.md) Anzeige <br>
+auf der rechten oberen Seite:
+ - System Ein- und Ausschalter 
+ - Dark/Lightmode 
+ - Anzeige [`W-LAN oder LAN`](WLAN.md) 
+ - [`Bluetooth`](bluetooth.md) Anzeige 
 
  ### TODO Screenshot System Ein- und Assschalter
  ### TODO Dark/Lightmode

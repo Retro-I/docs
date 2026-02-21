@@ -24,33 +24,26 @@ nav:
 
   - Benutzerhandbuch:
       - user-manual/index.md
-        # Vorwort + Übersicht + Inhaltsverzeichnis?
-      - Menführung: 
-        # Übersicht, Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
+        # Vorwort + Übersicht Menüführung + Inhaltsverzeichnis zu den einzelnen Seiten
+      - Menüführung: 
+        # Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
+        - Übersicht Startbildschirm: user-manual/uebersicht.md
         - Lautstärke, Stummschalten & Equalizer: user-manual/Startbildschirm.md
         - System Ein- und Ausschalten: user-manual/on-off.md
-        # Symbolführung 
         - Darkmode / Lightmode: user-manual/dark_light.md 
-        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
         - W-LAN / LAN: user-manual/WLAN.md 
-        # Einschalten / Ausschalten, Auswählen, Passwort eingabe, Symbolführung
       - Radiosender: user-manual/radiosender.md
         # Radiosender auswahl + Sendersuche + Hinzufügen von neuen Radiosendern / lösche
       - Bluetooth: user-manual/Bluetooth.md
         # aktivieren + Verbindungen + Namen ändern, Symbolführung
       - Einstellungen: 
         # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
-      # Frage ist hier ob App, Updates, Logs ausgeblendet werden oder nicht.
         - Audio: user-manual/audio.md
-          # Lautstärke + Stummschalten + Erklärung mit Drehimpulsgeber
         - Anzeige: user-manual/anzeige.md
-          # Symbolführung 
         - LED-Streifen: user-manual/led-streifen.md
-          # Symbolführung
         - Infos: user-manual/infos.md
-        # CPU Temperatur, Netzwerkinfos, Credits, 
       - GPO-PIN-Belegung / Schaltplan: user-manual/PIN-Belegung.md
-        # Schaubild Pin Belegung + Tabelle
+        # Schaubild Pin Belegung + Tabelle -> Verlinkung auf Projectdocu
         
   - Setup:
       - setup/index.md
