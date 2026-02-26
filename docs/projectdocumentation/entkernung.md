@@ -4,31 +4,31 @@ Es mussten sämtliche Kondensatoren, elektrische Bauteile, Röhren und Kupferkab
 Im letzten Bild könnt ihr ungefähr das Volumen erahnen welches entfernt werden musste.
 
 Rückseite
-![Rückseite](../assets/entkernung/entkernung_1.jpg)
+![Rückseite](../assets/projectdocumentation/entkernung/entkernung/entkernung_1.jpg)
 
 Unterseite
-![Unterseite](../assets/entkernung/entkernung_2.jpg)
+![Unterseite](../assets/projectdocumentation/entkernung/entkernung_2.jpg)
 
 Gehäuse
-![Gehäuse](../assets/entkernung/entkernung_3.jpg)
+![Gehäuse](../assets/projectdocumentation/entkernung/entkernung_3.jpg)
 
 Frontpanel
-![Frontpanel](../assets/entkernung/entkernung_4.jpg)
+![Frontpanel](../assets/projectdocumentation/entkernung/entkernung_4.jpg)
 
 Vogelperspektive
-![Vogelperspektive](../assets/entkernung/entkernung_5.jpg)
+![Vogelperspektive](../assets/projectdocumentation/entkernung/entkernung_5.jpg)
 
 Chassie
-![Chassie](../assets/entkernung/entkernung_6.jpg)
+![Chassie](../assets/projectdocumentation/entkernung/entkernung_6.jpg)
 
 Chassie Seitlich
-![Chassie_seitlich](../assets/entkernung/entkernung_7.jpg)
+![Chassie_seitlich](../assets/projectdocumentation/entkernung/entkernung_7.jpg)
 
 Unterseite
-![Unterseite_2](../assets/entkernung/entkernung_8.jpg)
+![Unterseite_2](../assets/projectdocumentation/entkernung/entkernung_8.jpg)
 
 Chassie Vorderseite
-![Chassie_Vorderseite](../assets/entkernung/entkernung_9.jpg)
+![Chassie_Vorderseite](../assets/projectdocumentation/entkernung/entkernung_9.jpg)
 
 Elektroschrott
-![Elektroschrott](../assets/entkernung/entkernung_10.jpg)
+![Elektroschrott](../assets/projectdocumentation/entkernung/entkernung_10.jpg)

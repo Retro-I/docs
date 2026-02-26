@@ -3,7 +3,7 @@
 In den `Einstellungen` unter `Audio` ist es möglich das Ausgabegerät einzustellen. 
 
 ## Standard-Lautstärke
-Der 2. Punkt Umfasst die `Standard-Lautstärke`, welche beim Start aufgerufen wird. 
+Der 2. Punkt steuert die `Standard-Lautstärke`, welche beim Start aufgerufen wird. 
 
 ## Schrittweite-Lautstärke
 Im 3. Schritt ist es möglich die jeweilige `Schrittweite der Lautstärke` einzustellen. Dies zählt für den Drehimpulsgeber (Falls genutzt) oder für die direkte Einstellungen im oberen Menüband.

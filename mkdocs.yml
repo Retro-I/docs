@@ -7,7 +7,7 @@ repo_name: Retro.I
 copyright: <div class="md-copyright">Made with &#10084; and <b><a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a></b> by <b><a href="https://github.com/DomeRepo">@DomeRepo</a></b> and <b><a href="https://github.com/felixholfelder">@felixholfelder</a></b></div>
 
 nav:
-  - Home: 
+  - Vorwort: 
       - index.md
 
   - Projektdokumentation:
@@ -24,26 +24,22 @@ nav:
 
   - Benutzerhandbuch:
       - user-manual/index.md
-        # Vorwort + Übersicht Menüführung + Inhaltsverzeichnis zu den einzelnen Seiten
       - Menüführung: 
-        # Menüführung, Erklärung der Icons, z. B. Design wechsel, WLAN, Bluetooth
         - Übersicht Startbildschirm: user-manual/uebersicht.md
-        - Lautstärke, Stummschalten & Equalizer: user-manual/Startbildschirm.md
+        - Lautstärke, Stummschalten & Equalizer: user-manual/lautstaerke.md
         - System Ein- und Ausschalten: user-manual/on-off.md
         - Darkmode / Lightmode: user-manual/dark_light.md 
         - W-LAN / LAN: user-manual/WLAN.md 
       - Radiosender: user-manual/radiosender.md
-        # Radiosender auswahl + Sendersuche + Hinzufügen von neuen Radiosendern / lösche
-      - Bluetooth: user-manual/Bluetooth.md
-        # aktivieren + Verbindungen + Namen ändern, Symbolführung
+      - Bluetooth: user-manual/bluetooth.md
+      - Soundboard: user-manual/soundboard.md
       - Einstellungen: 
-        # NUR Symbolführung, Überpunkt hinter welchem Symbol steckt was
-        - Audio: user-manual/audio.md
-        - Anzeige: user-manual/anzeige.md
-        - LED-Streifen: user-manual/led-streifen.md
+        - Audio-Einstellungen: user-manual/audio.md
+        - Anzeige-Einstellungen: user-manual/anzeige.md
+        - LED-Streifen-Einstellungen: user-manual/led-streifen.md
         - Infos: user-manual/infos.md
+        - Entwicklertools: user-manual/entwicklertools.md
       - GPO-PIN-Belegung / Schaltplan: user-manual/PIN-Belegung.md
-        # Schaubild Pin Belegung + Tabelle -> Verlinkung auf Projectdocu
         
   - Setup:
       - setup/index.md

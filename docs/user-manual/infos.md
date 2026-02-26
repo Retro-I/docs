@@ -1,12 +1,10 @@
 # Infos
-Es ist möglich allgemeine Informationen über das System abzurufen.
+## Dokumentation
+Zusätzlich gibt einen Tab `Dokumentation` hier steht der URL für die MKDocs Dokumentation. Es kann auch bequem der QR-Code gescannt werden um zur Dokumentation zu gelangen.
 
-## TODO Systeminfo Seite
+### TODO Bild Doku
 
-Zusätzlich gibt einen Tab `Dokumentation` hier ist der URL für die komplette Dokumentation abgebildet. Es kann auch bequem der QR-Code gescannt werden um zur Dokumentation zu gelangen.
-
-## TODO Dokumentation
-
+## Credits
 Ein weiterer Tab `Credits` beinhaltet alle Personen, welche an unserem `Retro.I` mitgewirkt haben.
 
-## TODO Credits
+### TODO Bild Credits
