@@ -12,7 +12,7 @@ Das `Playsymbol` zeigt den aktuell spielenden Radiosender.
 Die Buttons der Radiosender funktionieren wie `Android-Apps`.
 
 Ein längeres Drücken über das Touchfeld oder mit der Maus erzeugen einen neuen Dialog.
-Hierbei ist es möglich den Sender zu löschen oder den gewählten als Lieblingssender einzustellen. Dieser kann dann in [Einstellungen](einstellungen.md) beim Start abgespielt werden oder nicht.
+Hierbei ist es möglich den Sender zu löschen oder den gewählten als Lieblingssender einzustellen. In den [Audio-Einstellungen](audio.md) kann zusätzlich eingestellt werden, ob dieser dann beim Systemstart abgespielt werden soll oder nicht.
 
 ## TODO Screenshot Dialog Lieblingssender/löschen
 

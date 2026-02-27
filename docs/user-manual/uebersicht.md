@@ -10,20 +10,20 @@ Nach der Installation der `setup.sh` wird beim nächsten Start nur noch der Desk
 ## Orientierung am Menüband
 
 ### obere Menüband
-auf der linken oberen Seite:
- - [aktuelle Lautstärke oder Anzeige für Stummschaltung](lautstaerke.md)
+auf der linken oberen Seite:<br>
+ - [aktuelle Lautstärke oder Anzeige für Stummschaltung](lautstaerke.md)<br>
  - [Equalizer Bass / Höhen](lautstaerke.md)
 
-auf der rechten oberen Seite:
- - [System Ein- und Ausschalter](on-off.md)
- - [Dark/Lightmode](dark_light.md)
- - [`W-LAN oder LAN`](WLAN.md) 
+auf der rechten oberen Seite: <br>
+ - [System Ein- und Ausschalter](on-off.md)<br>
+ - [Dark/Lightmode](dark_light.md)<br>
+ - [`W-LAN oder LAN`](WLAN.md) <br>
  - [`Bluetooth`](bluetooth.md) 
 
 
 ### untere Menüband
 im unteren Menüband ist die Kachel [`Radiosender`](radiosender.md) beim Start als Standard ausgewählt.
-Darüberhinaus gibt es noch [`Bluetooth`](bluetooth.md), [Soundboard](soundboard.md) (Einschalten in der [Anzeige](anzeige.md) möglich) und [`Einstellungen`](einstellungen.md).
+Darüberhinaus gibt es noch [`Bluetooth`](bluetooth.md), [Soundboard](soundboard.md) (Einschalten in der [Anzeige](anzeige.md) möglich) und allgemeine `Einstellungen`.
 
 In der Kachel [`Radiosender`](radiosender.md) befinden sich alle gespeicherten Radiosender.
 
@@ -37,7 +37,7 @@ In der Kachel [Soundboard](soundboard.md) kann man verschiedene kurze Soundfiles
 
 ### TODO Kachel Einstellungen Bild 
 
-In der Kachel [`Einstellungen`](einstellungen.md) finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten des LED-Streifens, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start oder Systeminformationen wie die aktuelle IP.
+In der Kachel `Einstellungen` finden sich unter anderem allgemeine Einstellungen für den Radio wie zum Beispiel: Verhalten des LED-Streifens, Anzeige, Audio-Ausgabe, Standardlautstärke bei Start oder Systeminformationen wie die aktuelle IP.
 
 ### TODO Anregung: Nur ein Bild mit Kreisen?
 

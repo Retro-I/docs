@@ -3,7 +3,7 @@ Hier befindet sich das Benutzerhandbuch. Stay tuned! <br>
 Die folgende Dokumentation bezieht sich auf die Version `V4.0`. Durch die ständige Weiterentwicklung des `Retro.I` kann es möglich sein, dass verschiedene Grafiken, Menüunterpunkte oder ähnliches nicht der hier im Benutzerhandbuch genutztn Screenshots entspricht. Für etweiige Fragen stehen wir euch selbstverständlich zur Verfügung.
 
 ## Inhaltsverzeichnis
-- Menüführung:
+Menüführung:
     - [Übersicht](uebersicht.md)
     - [Lautstärke, Stummschaltung & Equalizer](lautstaerke.md)
     - [Ein- und Ausschalten](on-off.md)
@@ -16,7 +16,7 @@ Die folgende Dokumentation bezieht sich auf die Version `V4.0`. Durch die ständ
 
 - [Soundboard-Kachel](soundboard.md)
 
-- Einstellungen:
+Einstellungen:
     - [Anzeige Einstellungen](anzeige.md)
     - [LED-Streifen Einstellungen](led-streifen.md)
     - [Systeminfos](infos.md)
