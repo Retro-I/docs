@@ -1,10 +1,14 @@
 # Infos
 ## Dokumentation
-Zusätzlich gibt einen Tab `Dokumentation` hier steht der URL für die MKDocs Dokumentation. Es kann auch bequem der QR-Code gescannt werden um zur Dokumentation zu gelangen.
+Zusätzlich gibt es einen Tab `Dokumentation` hier steht der URL für die MKDocs Dokumentation. Es kann auch bequem der QR-Code gescannt werden um zur Dokumentation zu gelangen.
 
-### TODO Bild Doku
+![Einstellungen](../assets/user-manual/infos/infos_1.jpg)
+
+![Info](../assets/user-manual/infos/infos_2.jpg)
+
+![Dokumentation](../assets/user-manual/infos/infos_3jpg)
 
 ## Credits
-Ein weiterer Tab `Credits` beinhaltet alle Personen, welche an unserem `Retro.I` mitgewirkt haben.
+In diesen`Credits` stehen alle Personen, welche an unserem `Retro.I` mitgewirkt haben.
 
-### TODO Bild Credits
+![Credits](../assets/user-manual/infos/infos_4.jpg)

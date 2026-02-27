@@ -5,12 +5,21 @@ Hier gibt folgende Möglichkeiten:
  - Equalizer Bass / Treble anpassen
 
 ## Lautstärke
- Sollte ein [LED-Streifen](led-streifen.md) benutzt werden, dann wird bei Erhöhung sowohl als auch der Reduzierung der LED-Streifen angepasst. Dieser leuchtet beginnend von Links(von 0%) nach Rechts (bis zu 100%). Um diesen Wert zu berechnen gibt es im [Setup](/docs/setup/index.md) die Abfrage wieviel LED's benutzt werden.
+ Sollte ein [LED-Streifen](led-streifen.md) benutzt werden, reagiert dieser auf eine Erhöhung oder Reduzierung der Lautstärke. Der LED-Streifen leuchtet beginnend, je nach Einbau von Links (von 0%) nach Rechts (bis zu 100%). Um diesen Wert zu berechnen gibt es im [Setup](../setup/index.md) die Abfrage wieviel LED's benutzt werden.
+
+![Lautstaerke_1](../assets/user-manual/lautstaerke/lautstaerke_1.jpg)
+![Lautstaerke_2](../assets/user-manual/lautstaerke/lautstaerke_2.jpg)
+
 
 ## Stummschaltung
- Bei Stummschaltung leuchtet der LED-Streifen durchgehend Rot.
+ Bei Stummschaltung leuchtet der LED-Streifen durchgehend Rot. Eine Aufhebung der Stummschaltung stellt die ursprüngliche Farbe wieder her.
+ Zusätzlich ändert sich das Symbol links oben.
+
+![Lautstaerke_2](../assets/user-manual/lautstaerke/lautstaerke_5.jpg)
 
 ## Equalizer
- Das gleiche Verhalten zeigt sich auch bei der Einstellung für Treble und Bass. Wobei heirbei von der Mitte ausgegangen wird und sich nach Links und Rechts leuchtend ausdehnt.
+ Das gleiche Verhalten zeigt sich auch bei der Einstellung für Treble und Bass. Wobei diesmal von der Mitte ausgegangen wird und sich nach Links und Rechts leuchtend ausdehnt.
+ 
+  ![Lautstaerke_3](../assets/user-manual/lautstaerke/lautstaerke_3.jpg)
+  ![Lautstaerke_4](../assets/user-manual/lautstaerke/lautstaerke_4.jpg)
 
- ### TODO BILD LAUTSTÄRKE AUDIO 
