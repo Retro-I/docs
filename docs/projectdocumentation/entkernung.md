@@ -4,7 +4,7 @@ Es mussten sämtliche Kondensatoren, elektrische Bauteile, Röhren und Kupferkab
 Im letzten Bild könnt ihr ungefähr das Volumen erahnen welches entfernt werden musste.
 
 Rückseite
-![Rückseite](../assets/projectdocumentation/entkernung/entkernung/entkernung_1.jpg)
+![Rückseite](../assets/projectdocumentation/entkernung/entkernung_1.jpg)
 
 Unterseite
 ![Unterseite](../assets/projectdocumentation/entkernung/entkernung_2.jpg)
