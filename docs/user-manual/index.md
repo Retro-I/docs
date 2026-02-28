@@ -13,10 +13,10 @@ Menüführung:<br>
 - [Audio-Einstellungen](audio.md)<br>
 
 
-Kacheln:<br>
-- [Radiosender-Kachel](radiosender.md) <br>
-- [Bluetooth-Kachel](bluetooth.md) <br>
-- [Soundboard-Kachel](soundboard.md) <br>
+Kacheln:
+- [Radiosender-Kachel](radiosender.md) 
+- [Bluetooth-Kachel](bluetooth.md) 
+- [Soundboard-Kachel](soundboard.md) 
 
 Einstellungen:<br>
 - [Anzeige Einstellungen](anzeige.md)<br>

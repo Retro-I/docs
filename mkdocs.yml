@@ -31,7 +31,9 @@ nav:
         - Darkmode / Lightmode: user-manual/dark_light.md 
         - W-LAN / LAN: user-manual/WLAN.md 
       - Radiosender: user-manual/radiosender.md
-      - Bluetooth: user-manual/bluetooth.md
+
+      - Bluetooth: docs/user-manual/bluetooth.md
+
       - Soundboard: user-manual/soundboard.md
       - Einstellungen: 
         - Audio-Einstellungen: user-manual/audio.md
