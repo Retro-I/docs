@@ -111,7 +111,7 @@ sudo systemctl disable rpi-eeprom-update.service
 Mit diesem Tool kann der Bass und die Höhen eingestellt werden.
 Wird mit folgendem Befehl installiert
 ```
-sudo apt-get intsall easyeffects
+sudo apt-get install easyeffects
 ```
 Im Projekt befindet sich unter `assets/effects` die Datei `effects.json`.\
 Diese wird nach erfolgreicher Installation nach `$HOME/.config/easyeffects/output/retroi.json` kopiert.\
