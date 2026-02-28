@@ -4,13 +4,18 @@ Im unteren Menüband in der Kachel `Bluetooth` ist es möglich sich mit einem an
 Hier es es zum Beispiel möglich sich bequem per Handy mit dem Radio zu verbinden und Spotify oder andere Musikdienstleiter zu nutzen.
 
 ![Bluetooth-Kachel](../assets/user-manual/bluetooth/bluetooth_1.jpg)
+<br>
 
+## Bluetooth-Discoverymode
 Mit einem Klick auf `Bluetooth nicht sichtbar` wird der `Bluetooth-Discovery` - Modus vom Raspberry Pi aktiviert und es ist möglich sich zu verbinden. Sobald eine Verbindung besteht wird der Gerätename und die MAC-Adresse angzeigt.
 
 ![Bluetooth-Discovery-Mode](../assets/user-manual/bluetooth/bluetooth_2.jpg)
+<br>
 
+## Bluetooth-Anzeigename
 Wie in `Bluetooth-Einstellungen` üblich, kann man den Anzeigenamen des Raspberry Pi's anpassen.
 
 ![Bluetooth-Anzeigename-aendern](../assets/user-manual/bluetooth/bluetooth_3.jpg)
+<br>
 
 ![Bluetooth-Anzeigename-aendern-speichern](../assets/user-manual/bluetooth/bluetooth_4.jpg)

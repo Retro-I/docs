@@ -5,24 +5,27 @@ Durch die ständige Weiterentwicklung des `Retro.I` kann es möglich sein, dass 
 Zur vereinfachung des Benutzerhandbuches wird die App komplett im Dark Mode abgebildet.
 
 ## Inhaltsverzeichnis
-Menüführung:<br>
-- [Übersicht](uebersicht.md)<br>
-- [Lautstärke, Stummschaltung & Equalizer](lautstaerke.md)<br>
-- [Ein- und Ausschalten](on-off.md)<br>
-- [W-LAN / LAN Einstellungen](WLAN.md)<br> 
-- [Audio-Einstellungen](audio.md)<br>
+Menüführung:
 
+- [Übersicht](uebersicht.md)
+- [Lautstärke, Stummschaltung & Equalizer](lautstaerke.md)
+- [Ein- und Ausschalten](on-off.md)
+- [W-LAN / LAN Einstellungen](WLAN.md)
+- [Audio-Einstellungen](audio.md)
 
-Kacheln:<br>
-- [Radiosender-Kachel](radiosender.md) <br>
-- [Bluetooth-Kachel](Bluetooth.md) <br>
+Kacheln:
+
+- [Radiosender-Kachel](radiosender.md) 
+- [Bluetooth-Kachel](Bluetooth.md) 
 - [Soundboard-Kachel](soundboard.md) 
 
-Einstellungen:<br>
-- [Anzeige Einstellungen](anzeige.md)<br>
-- [LED-Streifen Einstellungen](led-streifen.md)<br>
-- [Info's](infos.md)<br>
-- [Entwicklertools](entwicklertools.md)<br>
+Einstellungen:
 
-PIN-Belegung / Schaltplan:<br>
+- [Anzeige Einstellungen](anzeige.md)
+- [LED-Streifen Einstellungen](led-streifen.md)
+- [Info's](infos.md)
+- [Entwicklertools](entwicklertools.md)
+
+PIN-Belegung / Schaltplan:
+
 - [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)

@@ -11,14 +11,16 @@ Nach der Installation der `setup.sh` wird der Raspy beim nächsten Start ohne Ta
 ## Orientierung am Menüband
 
 ### obere Menüband
-auf der linken oberen Seite:<br>
- - [aktuelle Lautstärke oder Anzeige für Stummschaltung](lautstaerke.md)<br>
+auf der linken oberen Seite:
+
+ - [aktuelle Lautstärke oder Anzeige für Stummschaltung](lautstaerke.md)
  - [Equalizer Bass / Höhen](lautstaerke.md)
 
-auf der rechten oberen Seite: <br>
- - [System Ein- und Ausschalter](on-off.md)<br>
- - [Dark/Lightmode](dark_light.md)<br>
- - [`W-LAN oder LAN`](WLAN.md) <br>
+auf der rechten oberen Seite: 
+
+ - [System Ein- und Ausschalter](on-off.md)
+ - [Dark/Lightmode](dark_light.md)
+ - [`W-LAN oder LAN`](WLAN.md) 
  - [`Bluetooth`](bluetooth.md) 
 
 

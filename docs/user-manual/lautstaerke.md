@@ -1,14 +1,16 @@
 # Lautstärke, Stummschaltung & Equalizer
-Hier gibt folgende Möglichkeiten:<br>
-- aktuelle Lautstärke anpassen<br>
-- Radio Stummschalten<br>
-- Equalizer Bass / Treble anpassen<br>
+Hier gibt folgende Möglichkeiten:
+
+- aktuelle Lautstärke anpassen
+- Radio Stummschalten
+- Equalizer Bass / Treble anpassen
 
 ## Lautstärke
  Sollte ein [LED-Streifen](led-streifen.md) benutzt werden, reagiert dieser auf eine Erhöhung oder Reduzierung der Lautstärke. Der LED-Streifen leuchtet beginnend, je nach Einbau von Links (von 0%) nach Rechts (bis zu 100%). Um diesen Wert zu berechnen gibt es im [Setup](../setup/index.md) die Abfrage wieviel LED's benutzt werden.
 
 ![Lautstaerke_1](../assets/user-manual/lautstaerke/lautstaerke_1.jpg)
 <br>
+
 ![Lautstaerke_2](../assets/user-manual/lautstaerke/lautstaerke_2.jpg)
 
 
@@ -23,5 +25,6 @@ Hier gibt folgende Möglichkeiten:<br>
  
 ![Lautstaerke_3](../assets/user-manual/lautstaerke/lautstaerke_3.jpg)
   <br>
+  
 ![Lautstaerke_4](../assets/user-manual/lautstaerke/lautstaerke_4.jpg)
 

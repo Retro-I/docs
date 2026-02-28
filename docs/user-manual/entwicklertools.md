@@ -3,17 +3,19 @@ Um die Entwicklertools einzublenden, muss man den Sliderbetätigen und die App n
 Nachdem die Entwicklertools eingeschalten sind, gibt es in `Einstellungen` folgende Erweiterungen:
 
 ![Einstellungen](../assets/user-manual/entwicklertools/entwicklertools_1.jpg)
+<br>
 
 ![Entwicklermodus-Einstellungen](../assets/user-manual/entwicklertools/entwicklertools_2.jpg)
+<br>
 
 ![Entwicklermodus On-Off](../assets/user-manual/entwicklertools/entwicklertools_3.jpg)
 
 Nach einem Neustart stehen euch folgende Dinge zur Verfügung:
-<br>
-- App<br>
-- Info's (Systeminfos!)<br>
-- Updates<br>
-- Logs<br>
+
+- App
+- Info's (Systeminfos!)
+- Updates
+- Logs
 
 ![Neue Auswahlmöglichkeit](../assets/user-manual/entwicklertools/entwicklertools_4.jpg)
 
@@ -29,17 +31,18 @@ Hier werden Systeminformationen angzeigt wie zum Beispiel IP oder MAC-Adresse.
 ![Systeminfos](../assets/user-manual/entwicklertools/entwicklertools_6.jpg)
 
 
-## Updates GIT Branches
+## Updates GIT-Branches
 Hier kann bequem zwischen neuen GIT-Repos hin und hergesprungen werden. Hierbei benötigt man keinen PC. Der Raspy lädt diesen herunter und installiert den GIT-Branche autark.
 
 ### Bild wird noch ergänzt
-![Einstellungen](../assets/user-manual/entwicklertools/entwicklertools_7.jpg)
+![GIT-Branches](../assets/user-manual/entwicklertools/entwicklertools_7.jpg)
 
 
 ## Logs Retro.I Service
 Hier wird das Journal des `Retro.I Services` angezeigt, die Logs werden zur Entwicklung und zum Debugging benutzt.
 
 ### Bild wird noch ergänzt
+![Logs](../assets/user-manual/entwicklertools/entwicklertools_8.jpg)
 
 
 

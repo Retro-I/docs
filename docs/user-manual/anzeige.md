@@ -12,9 +12,10 @@ Der 2. Punkt steuert die `Bildschirm-Helligkeit`. Über den Slider ist es mögli
 <br>
 
 ![Anzeige-Einstellungen](../assets/user-manual/anzeige/anzeige_3.jpg)
-## Soundboard aktivieren
+<br>
 
-## TODO Soundboard Text
+## Sounboard aktivieren
+Mit dem Slider ist es möglich die Soundboard-Kachel zu aktivieren. Diese wird nach einem Neustart im unteren Menüband angezeigt.
 
 
 ## Splashscreen
