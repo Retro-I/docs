@@ -21,12 +21,12 @@ auf der rechten oberen Seite:
  - [System Ein- und Ausschalter](on-off.md)
  - [Dark/Lightmode](dark_light.md)
  - [`W-LAN oder LAN`](WLAN.md) 
- - [`Bluetooth`](bluetooth.md) 
+ - [`Bluetooth`](Bluetooth.md) 
 
 
 ### untere Menüband
 im unteren Menüband ist die Kachel [`Radiosender`](radiosender.md) beim Start als Standard ausgewählt.
-Darüberhinaus gibt es noch [`Bluetooth`](bluetooth.md), [Soundboard](soundboard.md) (Einschalten in der [Anzeige](anzeige.md) nötig) und allgemeine `Einstellungen`.
+Darüberhinaus gibt es noch [`Bluetooth`](Bluetooth.md), [Soundboard](soundboard.md) (Einschalten in der [Anzeige](anzeige.md) nötig) und allgemeine `Einstellungen`.
 
 ## Radiosender-Kachel
 ![Radiosender-Kachel](../assets/user-manual/uebersicht/radiosender_1.jpg)
@@ -37,13 +37,14 @@ In der Kachel [`Radiosender`](radiosender.md) befinden sich alle gespeicherten R
 ## Bluetooth-Kachel
 ![Bluetooth-Kachel](../assets/user-manual/uebersicht/bluetooth_1.jpg)
 
-In der Kachel [`Bluetooth`](bluetooth.md) kann man sich mit anderen Audio-Ausgabegeräten per Bluetooth verbinden.
+In der Kachel [`Bluetooth`](Bluetooth.md) kann man sich mit anderen Audio-Ausgabegeräten per Bluetooth verbinden.
 
 
 ## Soundboard-Kachel
 ![Soundboard-Kachel](../assets/user-manual/uebersicht/soundboard_1.jpg)
 
 In der Kachel [Soundboard](soundboard.md) kann man verschiedene kurze Soundfiles abspielen. (Ähnlich wie bei TV Total).
+Diese ist nur aktiv wenn man beim Setup den abgesicherten Modus ausgeschalten hat. Hierzu muss man auch ein Admin-Passwort erstellen, welches dann abgefragt wird sobald man die Kachel wieder einschalten wird. Siehe [Eingbae-Admin Passwort](../docs/setup/systemeinrichtung.md)
 
 
 ## Einstellungen-Kachel

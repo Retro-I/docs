@@ -17,4 +17,6 @@ LED-Streifen:
 ![Übersicht Einstellmöglichkeiten](../assets/user-manual/led-streifen/LED-Streifen_3.jpg)
 <br>
 
+## Farbauswahl
+Die eingestellte Farbe wird direkt Live angepasst. Wenn die gewünschte Farbe ausgewählt ist, dann kommt man über `zurück` wieder in den ursprünglichen Dialog.
 ![Statische Farbauswahl](../assets/user-manual/led-streifen/LED-Streifen_4.jpg)
