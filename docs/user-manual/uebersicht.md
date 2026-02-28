@@ -44,7 +44,7 @@ In der Kachel [`Bluetooth`](Bluetooth.md) kann man sich mit anderen Audio-Ausgab
 ![Soundboard-Kachel](../assets/user-manual/uebersicht/soundboard_1.jpg)
 
 In der Kachel [Soundboard](soundboard.md) kann man verschiedene kurze Soundfiles abspielen. (Ähnlich wie bei TV Total).
-Diese ist nur aktiv wenn man beim Setup den abgesicherten Modus ausgeschalten hat. Hierzu muss man auch ein Admin-Passwort erstellen, welches dann abgefragt wird sobald man die Kachel wieder einschalten wird. Siehe [Eingbae-Admin Passwort](../docs/setup/systemeinrichtung.md)
+Diese ist nur aktiv wenn man beim Setup den abgesicherten Modus ausgeschalten hat. Hierzu muss man auch ein Admin-Passwort erstellen, welches dann abgefragt wird sobald man die Kachel wieder einschalten wird. Siehe [Eingabe-Admin Passwort](/docs/docs/setup/systemeinrichtung.md)
 
 
 ## Einstellungen-Kachel
