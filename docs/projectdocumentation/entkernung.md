@@ -1,34 +1,34 @@
-#Entkernung
+# Entkernung
 Bevor wir mit der Entkernung anfingen, mussten wir den Radio erstmal komplett in seine Einzelteile zerlegen.
 Es mussten sämtliche Kondensatoren, elektrische Bauteile, Röhren und Kupferkabel entfernt werden. 
 Im letzten Bild könnt ihr ungefähr das Volumen erahnen welches entfernt werden musste.
 
-Rückseite
+## Rückseite
 ![Rückseite](../assets/projectdocumentation/entkernung/entkernung_1.jpg)
 
-Unterseite
+## Unterseite
 ![Unterseite](../assets/projectdocumentation/entkernung/entkernung_2.jpg)
 
-Gehäuse
+## Gehäuse
 ![Gehäuse](../assets/projectdocumentation/entkernung/entkernung_3.jpg)
 
-Frontpanel
+## Frontpanel
 ![Frontpanel](../assets/projectdocumentation/entkernung/entkernung_4.jpg)
 
-Vogelperspektive
+## Vogelperspektive
 ![Vogelperspektive](../assets/projectdocumentation/entkernung/entkernung_5.jpg)
 
-Chassie
+## Chassie
 ![Chassie](../assets/projectdocumentation/entkernung/entkernung_6.jpg)
 
-Chassie Seitlich
+## Chassie Seitlich
 ![Chassie_seitlich](../assets/projectdocumentation/entkernung/entkernung_7.jpg)
 
-Unterseite
+## Unterseite
 ![Unterseite_2](../assets/projectdocumentation/entkernung/entkernung_8.jpg)
 
-Chassie Vorderseite
+## Chassie Vorderseite
 ![Chassie_Vorderseite](../assets/projectdocumentation/entkernung/entkernung_9.jpg)
 
-Elektroschrott
+## Elektroschrott
 ![Elektroschrott](../assets/projectdocumentation/entkernung/entkernung_10.jpg)

@@ -7,9 +7,9 @@ Hier dreht sich alles um folgende Punkte: <br>
 - [Vorbereitung Gehäuse](gehaeuse.md)
 - [Einbau Lautsprecher](lautsprecher.md)
 - [Einbau LED-Streifen](led_streifen.md)
-- [Zusammenbau](zusammenbau.md)
 - [Einbau Dreh-Impulsgeber](dreh_impulsgeber.md)
 - [Schaltplan & übersicht PIN-Belegung](schaltplan.md)
+- [Zusammenbau](zusammenbau.md)
 - und zum Schluss das [fertige Radio](fertiger_retroI.md) unseren `Retro.I`
 
 und schließlich den Zusammenbau der Technik und Fertigstellung des `Retro.I`. <br>
