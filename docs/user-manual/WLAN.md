@@ -10,6 +10,7 @@ Das `W-LAN Icon` hat zwei Statuse.<br>
 ![W-LAN Symbol Ein](../assets/user-manual/wlan/wlan_00.jpg)
 ![W-LAN Symbol Aus](../assets/user-manual/wlan/wlan_0.jpg)
 
+\docs\assets\user-manual\wlan
 
 Sobald ein `LAN-Kabel` eingesteckt ist, erscheint ein `LAN-ICON`.
 
