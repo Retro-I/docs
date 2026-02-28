@@ -12,11 +12,11 @@ Menüführung:<br>
     - [W-LAN / LAN Einstellungen](WLAN.md)<br>
     - [Audio-Einstellungen](audio.md)<br>
 
-- [Radiosender-Kachel](radiosender.md)
 
-- [Bluetooth-Kachel](bluetooth.md)
-
-- [Soundboard-Kachel](soundboard.md)
+Kacheln:<br>
+    - [Radiosender-Kachel](radiosender.md)
+    - [Bluetooth-Kachel](bluetooth.md)
+    - [Soundboard-Kachel](soundboard.md)
 
 Einstellungen:<br>
     - [Anzeige Einstellungen](anzeige.md)<br>
@@ -24,4 +24,5 @@ Einstellungen:<br>
     - [Systeminfos](infos.md)<br>
     - [Entwicklertools](entwicklertools.md)<br>
 
-- [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)
+PIN-Belegung / Schaltplan:<br>  
+    - [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)

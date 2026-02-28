@@ -13,7 +13,7 @@ Das `W-LAN Icon` hat zwei Statuse.<br>
 
 Sobald ein `LAN-Kabel` eingesteckt ist, erscheint ein `LAN-ICON`.
 
-![LAN Symbol Ein](../assets/user-manual/wlan/wlan_000.png)
+![LAN Symbol Ein](../assets/user-manual/wlan/lan_0.png)
 
 Sobald das WiFi eingeschaltet ist, startet die Netzwerksuche.
 

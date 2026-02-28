@@ -1,6 +1,7 @@
 # Schaltplan
 
-Für die technisch Versierten, gäbe es hier auch einen Schaltplan vom `Retro.I` wie wir den Radio aufgebaut haben.
+Für die technisch Versierten, gäbe es hier auch einen Schaltplan vom `Retro.I` wie wir den Radio aufgebaut haben.<br>
+Zurück zum [Benutzerhandbuch](../user-manual/PIN-Belegung.md)
 
 ## Schaltplan Retro.I
 ![Ansicht_vorne](../assets/projectdocumentation/schaltplan/Schaltplan.jpg)
