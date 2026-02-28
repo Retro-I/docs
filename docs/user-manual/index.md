@@ -15,7 +15,7 @@ Menüführung:<br>
 
 Kacheln:
 - [Radiosender-Kachel](radiosender.md) 
-- [Bluetooth-Kachel](bluetooth.md) 
+- [Bluetooth-Kachel](Bluetooth.md) 
 - [Soundboard-Kachel](soundboard.md) 
 
 Einstellungen:<br>
