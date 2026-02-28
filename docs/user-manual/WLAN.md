@@ -7,13 +7,13 @@ Das `W-LAN Icon` hat zwei Statuse.<br>
 - Grün = mit W-LAN verbunden<br>
 - Grau und durchgestrichten = nicht verbunden<br>
 
-![W-LAN Symbol Ein](../assets/user-manual/wlan/wlan_00.png)
-![W-LAN Symbol Aus](../assets/user-manual/wlan/wlan_0.png)
+![W-LAN Symbol Ein](../assets/user-manual/wlan/wlan_00.jpg)
+![W-LAN Symbol Aus](../assets/user-manual/wlan/wlan_0.jpg)
 
 
 Sobald ein `LAN-Kabel` eingesteckt ist, erscheint ein `LAN-ICON`.
 
-![LAN Symbol Ein](../assets/user-manual/wlan/lan_0.png)
+![LAN Symbol Ein](../assets/user-manual/wlan/lan_0.jpg)
 
 Sobald das WiFi eingeschaltet ist, startet die Netzwerksuche.
 

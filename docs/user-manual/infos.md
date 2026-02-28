@@ -6,7 +6,7 @@ Zusätzlich gibt es einen Tab `Dokumentation` hier steht der URL für die MKDocs
 
 ![Info](../assets/user-manual/infos/infos_2.jpg)
 
-![Dokumentation](../assets/user-manual/infos/infos_3jpg)
+![Dokumentation](../assets/user-manual/infos/infos_3.jpg)
 
 ## Credits
 In diesen`Credits` stehen alle Personen, welche an unserem `Retro.I` mitgewirkt haben.

@@ -4,9 +4,10 @@ Hier dreht sich alles um folgende Punkte: <br>
 
 - [Vorher & Nachher](vorher_nachher.md)
 - [Entkernung](entkernung.md)
+- [Vorbereitung Gehäuse](gehaeuse.md)
 - [Einbau Lautsprecher](lautsprecher.md)
 - [Einbau LED-Streifen](led_streifen.md)
-- [Vorbereitung Gehäuse](gehaeuse.md)
+- [Zusammenbau](zusammenbau.md)
 - [Einbau Dreh-Impulsgeber](dreh_impulsgeber.md)
 - [Schaltplan & übersicht PIN-Belegung](schaltplan.md)
 - und zum Schluss das [fertige Radio](fertiger_retroI.md) unseren `Retro.I`

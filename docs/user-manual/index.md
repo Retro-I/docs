@@ -6,23 +6,23 @@ Zur vereinfachung des Benutzerhandbuches wird die App komplett im Dark Mode abge
 
 ## Inhaltsverzeichnis
 Menüführung:<br>
-    - [Übersicht](uebersicht.md)<br>
-    - [Lautstärke, Stummschaltung & Equalizer](lautstaerke.md)<br>
-    - [Ein- und Ausschalten](on-off.md)<br>
-    - [W-LAN / LAN Einstellungen](WLAN.md)<br>
-    - [Audio-Einstellungen](audio.md)<br>
+- [Übersicht](uebersicht.md)<br>
+- [Lautstärke, Stummschaltung & Equalizer](lautstaerke.md)<br>
+- [Ein- und Ausschalten](on-off.md)<br>
+- [W-LAN / LAN Einstellungen](WLAN.md)<br> 
+- [Audio-Einstellungen](audio.md)<br>
 
 
 Kacheln:<br>
-    - [Radiosender-Kachel](radiosender.md)
-    - [Bluetooth-Kachel](bluetooth.md)
-    - [Soundboard-Kachel](soundboard.md)
+- [Radiosender-Kachel](radiosender.md)<br>
+- [Bluetooth-Kachel](bluetooth.md)<br>
+- [Soundboard-Kachel](soundboard.md)<br>
 
 Einstellungen:<br>
-    - [Anzeige Einstellungen](anzeige.md)<br>
-    - [LED-Streifen Einstellungen](led-streifen.md)<br>
-    - [Systeminfos](infos.md)<br>
-    - [Entwicklertools](entwicklertools.md)<br>
+- [Anzeige Einstellungen](anzeige.md)<br>
+- [LED-Streifen Einstellungen](led-streifen.md)<br>
+- [Info's](infos.md)<br>
+- [Entwicklertools](entwicklertools.md)<br>
 
-PIN-Belegung / Schaltplan:<br>  
-    - [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)
+PIN-Belegung / Schaltplan:<br>
+- [GPO-PIN-Belegung / Schaltplan](PIN-Belegung.md)

@@ -9,10 +9,11 @@ Nachdem die Entwicklertools eingeschalten sind, gibt es in `Einstellungen` folge
 ![Entwicklermodus On-Off](../assets/user-manual/entwicklertools/entwicklertools_3.jpg)
 
 Nach einem Neustart stehen euch folgende Dinge zur Verfügung:
-- App
-- Info's (Systeminfos!)
-- Updates
-- Logs
+<br>
+- App<br>
+- Info's (Systeminfos!)<br>
+- Updates<br>
+- Logs<br>
 
 ![Neue Auswahlmöglichkeit](../assets/user-manual/entwicklertools/entwicklertools_4.jpg)
 

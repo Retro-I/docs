@@ -12,5 +12,7 @@ LED-Streifen:
  - Dimmbar über Schieberegler
  - statische Farbe festlegen
  
-![Übersicht Einstellmöglichkeiten](../assets/user-manual\led-streifen\led-streifen_3.jpg)
-![Statische Farbauswahl](../assets/user-manual\led-streifen\led-streifen_4.jpg)
+![Übersicht Einstellmöglichkeiten](../assets/user-manual/led-streifen/led-streifen_3.jpg)
+<br>
+
+![Statische Farbauswahl](../assets/user-manual/led-streifen/led-streifen_4.jpg)
