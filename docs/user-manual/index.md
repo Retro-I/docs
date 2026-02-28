@@ -13,9 +13,9 @@ Menüführung:<br>
 - [Audio-Einstellungen](audio.md)<br>
 
 
-Kacheln:
-- [Radiosender-Kachel](radiosender.md) 
-- [Bluetooth-Kachel](Bluetooth.md) 
+Kacheln:<br>
+- [Radiosender-Kachel](radiosender.md) <br>
+- [Bluetooth-Kachel](Bluetooth.md) <br>
 - [Soundboard-Kachel](soundboard.md) 
 
 Einstellungen:<br>
