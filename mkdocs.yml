@@ -50,6 +50,8 @@ nav:
   - Changelog:
       - changelog/index.md
 
+  - Web-Version: https://radio.retroi.de
+
 extra:
   generator: false
 
