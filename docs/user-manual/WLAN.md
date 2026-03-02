@@ -7,13 +7,13 @@ Im oberen Menüband auf der rechten Seite ist es möglich sich mit einem W-LAN s
 Das `W-LAN Icon` hat zwei Statuse.
 
 - Grün = mit W-LAN verbunden
-- Grau und durchgestrichten = nicht verbunden
+- Grau und durchgestrichen = nicht verbunden
 
 ![W-LAN Symbol Ein](../assets/user-manual/wlan/wlan_00.jpg)
 ![W-LAN Symbol Aus](../assets/user-manual/wlan/wlan_0.jpg)
 
 ## W-LAN Suche
-Sobald das WiFi eingeschaltet ist, startet die Netzwerksuche.
+Sobald das W-LAN eingeschalten ist, startet die Netzwerksuche.
 
 ![Übersicht Verfügbare W-LAN's](../assets/user-manual/wlan/wlan_2.jpg)
 

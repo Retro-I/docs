@@ -1,7 +1,7 @@
 # Übersicht Startbildschirm
 Hier eine kurze Übersicht über die Menüführung der `Retro.I App`.
 
-![Übersicht - Startseite](../assets/user-manual/index/uebersicht.jpg)
+![Übersicht - Startseite](../assets/user-manual/index/uebersicht.png)
 
 ## Übersicht Menüführung
 Beim Starten und Herunterfahren wird der ausgewählte Splashscreen angezeigt. Zusätzlich ertönt der typische Windows-Sound beim hochfahren.
